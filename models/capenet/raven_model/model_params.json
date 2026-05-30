@@ -1,0 +1,12 @@
+{
+    "Hidden units": 1024,
+    "Dropout": 0.5,
+    "Batchsize": 32,
+    "Learning rate": 0.0001,
+    "Upsamling mode": "mean",
+    "Upsamling ratio": 0.0,
+    "Use mixup": true,
+    "Use label smoothing": true,
+    "Validation split": 0.2,
+    "Epochs": 220
+}

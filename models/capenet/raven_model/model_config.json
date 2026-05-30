@@ -1,0 +1,100 @@
+{
+  "specVersion": 1,
+  "modelDescription": "Custom classifier trained with BirdNET v1 embeddings.\nBirdNET was developed by the K. Lisa Yang Center for Conservation Bioacousticsat the Cornell Lab of Ornithology in collaboration with Chemnitz University of Technology.\n\nhttps://birdnet.cornell.edu",
+  "modelTypeConfig": {
+    "modelType": "RECOGNITION"
+  },
+  "signatures": [
+    {
+      "signatureName": "basic",
+      "modelInputs": [
+        {
+          "inputName": "inputs",
+          "sampleRate": 48000.0,
+          "inputConfig": [
+            "batch",
+            "samples"
+          ]
+        }
+      ],
+      "modelOutputs": [
+        {
+          "outputName": "scores",
+          "outputType": "SCORES"
+        }
+      ]
+    }
+  ],
+  "globalSemanticKeys": [
+    "Alop1",
+    "Andr2",
+    "Anth3",
+    "Apal4",
+    "Apal5",
+    "Arth6",
+    "Arth7",
+    "Arth8",
+    "Bati9",
+    "Bost10",
+    "Brad11",
+    "Brev12",
+    "Brev13",
+    "Brev14",
+    "Bull15",
+    "Bull16",
+    "Bull17",
+    "Caco18",
+    "Camp19",
+    "Capr20",
+    "Chae21",
+    "Chry22",
+    "Cinn23",
+    "Cist24",
+    "Cist25",
+    "Cist26",
+    "Cora27",
+    "Corv28",
+    "Coss29",
+    "Cryp30",
+    "Cucu31",
+    "Cucu32",
+    "Cyan33",
+    "Embe34",
+    "Halc35",
+    "Hedy36",
+    "Hype37",
+    "Hype38",
+    "Lani39",
+    "Mira40",
+    "Mota41",
+    "Musc42",
+    "Nect43",
+    "Orio44",
+    "Phyl45",
+    "Phys46",
+    "Ploc47",
+    "Pogo48",
+    "Poyn49",
+    "Prin50",
+    "Prom51",
+    "Pter52",
+    "Pycn53",
+    "Scle54",
+    "Semn55",
+    "Seri56",
+    "Sphe57",
+    "Sten58",
+    "Stre59",
+    "Stro60",
+    "Stro61",
+    "Tach62",
+    "Taur63",
+    "Telo64",
+    "Tomo65",
+    "Tric66",
+    "Turd67",
+    "Tyto68",
+    "Uroc69",
+    "Zost70"
+  ]
+}
