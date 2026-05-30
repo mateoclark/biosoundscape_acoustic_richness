@@ -6,6 +6,8 @@ Code and data for the paper "Comparing machine-learned and engineered acoustic f
 *data* - small data files  
 *models* - CapeNet and ABGI AI models  
 
+Additional large data files available in the Zenodo repository (updated when paper published)
+
 **Contact:**  
 Matthew L. Clark, Ph.D.  
 matthew.clark@sonoma.edu  
