@@ -1,0 +1,995 @@
+SiteID,FieldWetlandType,FieldVeldAge,FieldAliensWithin20m,Latitude,Longitude,PairID,RecordingNum,Year,Month,Day,Campaign,AVIRIS,LVIS,WetlandType,LandCoverClass,ElevationClass,FireClass
+s2lam072_230826,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.015137,19.0562,512,708,23,8,26,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam083_231025,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.015145,19.056224,512,695,23,10,25,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam016_230818,Not available,Not available,Not available,-33.9866,23.5346,510,885,23,8,18,Wet season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam040_231125,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.987046,23.534931,510,595,23,11,25,Dry season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam083_230705,Not available,Not available,Not available,-32.139216,19.018216,509,1279,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam186_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-32.138872,19.018572,509,423,23,11,22,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam049_231130,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-34.321658,18.972487,508,606,23,11,30,Dry season,Y,Y,Channelled valley-bottom,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam128_230703,Not available,Not available,Not available,-34.3222,18.9729,508,1116,23,7,3,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam045_231016,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.72459,19.772833,507,564,23,10,16,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam105_230705,Not available,Not available,Not available,-34.72572,19.7733,507,709,23,7,5,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam045_230705,Not available,Not available,Not available,-34.738445,19.787887,506,707,23,7,5,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam136_231016,In or near (25 m) wetland,Intermediate (6-17 yrs),Scattered to Medium,-34.740038,19.788252,506,563,23,10,16,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam078_231016,In or near (25 m) wetland,Intermediate (6-17 yrs),Rare to Very Scattered,-34.741615,19.79605,505,564,23,10,16,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam084_230705,Not available,Not available,Not available,-34.7412,19.7983,505,705,23,7,5,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam073_230705,Not available,Not available,Not available,-33.942448,19.170484,504,584,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam178_231123,Not near (100 m) any water,"Young (burned, < 6 yrs)",Dense to Closed,-33.942122,19.169778,504,430,23,11,23,Dry season,Y,Y,NA,Wetland,Low: 0-500 m,1-to-6 years
+s2lam051_231113,Not available,Intermediate (6-17 yrs),None,-33.975987,20.839731,503,1311,23,11,13,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam098_230712,Not available,Not available,Not available,-33.9766,20.839877,503,714,23,7,12,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam085_231108,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-34.344118,18.86318,502,869,23,11,8,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam132_230822,Not available,Not available,Not available,-34.3441,18.863163,502,840,23,8,22,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam111_231025,Not near (100 m) any water,Old (> 17 yrs),None,-33.485558,20.497028,501,852,23,10,25,Dry season,Y,N,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam137_230725,Not available,Not available,Not available,-33.4856,20.497,501,999,23,7,25,Wet season,Y,N,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam054_230725,Not available,Not available,Not available,-34.3748,20.5348,500,714,23,7,25,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam058_231110,Not near (100 m) any water,Intermediate (6-17 yrs),Scattered to Medium,-34.374848,20.534918,500,727,23,11,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam123_230710,Not available,Not available,Not available,-34.0595,20.4315,499,1295,23,7,10,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam139_231009,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.059617,20.431553,499,1470,23,10,9,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam054_230807,Not available,Not available,Not available,-34.700215,20.1311,498,575,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam120_231117,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.700188,20.131092,498,583,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam020_231010,Not near (100 m) any water,Old (> 17 yrs),None,-34.803752,19.941432,497,695,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam105_230812,Not available,Not available,Not available,-34.8038,19.9414,497,710,23,8,12,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam010_231011,In or near (10 m) seep,Not available,Rare to Very Scattered,-34.311841,18.429374,496,1005,23,10,11,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam015_230710,Not available,Not available,Not available,-34.311886,18.429389,496,571,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam119_231026,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.515512,20.575432,495,854,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam135_230802,Not available,Not available,Not available,-33.515527,20.5754,495,715,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam030_230811,Not available,Not available,Not available,-32.1977,19.0944,494,1530,23,8,11,Wet season,Y,Y,NA,Grassland,Medium: 500-1000 m,6-to-12 years
+s2lam092_231031,Not near (100 m) any water,Intermediate (6-17 yrs),None,-32.197751,19.094085,494,687,23,10,31,Dry season,Y,Y,NA,Grassland,Medium: 500-1000 m,6-to-12 years
+s2lam078_231010,Not available,Old (> 17 yrs),None,-34.809432,19.944318,493,715,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam116_230812,Not available,Not available,Not available,-34.809442,19.944388,493,709,23,8,12,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam020_230810,Not available,Not available,Not available,-33.9565,21.2232,492,872,23,8,10,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam161_231109,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.956487,21.223185,492,547,23,11,9,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam016_230718,Not available,Not available,Not available,-34.0677,22.948966,491,579,23,7,18,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam074_231027,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.067685,22.948984,491,721,23,10,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam098_231029,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.635096,19.583363,490,975,23,10,29,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam101_230630,Not available,Not available,Not available,-34.635407,19.583603,490,566,23,6,30,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam042_230710,Not available,Not available,Not available,-34.3316,18.46297,489,573,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam133_231011,Not near (100 m) any water,Not available,Rare to Very Scattered,-34.331579,18.462966,489,1004,23,10,11,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam041_230718,Not available,Not available,Not available,-34.073519,22.9652,488,571,23,7,18,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam041_231027,Not near (100 m) any water,Old (> 17 yrs),Scattered to Medium,-34.07359,22.965158,488,722,23,10,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam057_230807,Not available,Not available,Not available,-33.1529,18.1214,487,171,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam080_231128,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.152879,18.121392,487,1281,23,11,28,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam108_231106,Not available,Not available,Not available,-33.677361,21.551764,486,1130,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam162_230808,Not available,Not available,Not available,-33.677342,21.5517,486,979,23,8,8,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam045_230725,Not available,Not available,Not available,-34.413512,20.6317,485,709,23,7,25,Wet season,Y,Y,NA,Agriculture,Low: 0-500 m,6-to-12 years
+s2lam123_231110,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.41351,20.631727,485,725,23,11,10,Dry season,Y,Y,NA,Agriculture,Low: 0-500 m,6-to-12 years
+s2lam117_231013,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.3679,22.107932,484,1024,23,10,13,Dry season,Y,N,NA,Grassland,Medium: 500-1000 m,25+ years
+s2lam151_230713,Not available,Not available,Not available,-33.3679,22.1079,484,896,23,7,13,Wet season,Y,N,NA,Grassland,Medium: 500-1000 m,25+ years
+s2lam025_230815,Not available,Not available,Not available,-33.915431,22.415677,483,1005,23,8,15,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam150_231113,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.915443,22.415671,483,573,23,11,13,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam081_230705,Not available,Not available,Not available,-34.718987,19.767503,482,668,23,7,5,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam123_231016,In or near (25 m) wetland,Intermediate (6-17 yrs),None,-34.718977,19.767433,482,565,23,10,16,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam026_230822,Not available,Not available,Not available,-34.433642,20.4193,481,692,23,8,22,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam105_231022,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.433537,20.419391,481,570,23,10,22,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam118_230703,Not available,Not available,Not available,-34.3216,18.965567,480,1125,23,7,3,Wet season,Y,Y,Seep,Wetland,Low: 0-500 m,1-to-6 years
+s2lam142_231130,In or near (25 m) wetland,Intermediate (6-17 yrs),None,-34.321593,18.965588,480,608,23,11,30,Dry season,Y,Y,Seep,Wetland,Low: 0-500 m,1-to-6 years
+s2lam071_230820,Not available,Not available,Not available,-34.000935,18.3913,479,1016,23,8,20,Wet season,Y,Y,Floodplain,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam080_231118,In or near (10 m) seep,Old (> 17 yrs),Rare to Very Scattered,-34.000992,18.391309,479,1001,23,11,18,Dry season,Y,Y,Floodplain,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam144_231026,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.518933,20.544805,478,854,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,12-to-17 years
+s2lam156_230802,Not available,Not available,Not available,-33.5189,20.544782,478,387,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,12-to-17 years
+s2lam071_230702,Not available,Not available,Not available,-34.1031,18.437288,477,583,23,7,2,Wet season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam188_231124,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",None,-34.103066,18.437319,477,440,23,11,24,Dry season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam130_231130,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.326575,18.965803,476,607,23,11,30,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam137_230703,Not available,Not available,Not available,-34.3264,18.965782,476,1119,23,7,3,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam082_230808,Not available,Not available,Not available,-33.681311,21.5598,475,992,23,8,8,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam162_231106,Not available,Not available,Not available,-33.681617,21.560129,475,1143,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam073_231113,Not available,Not available,Not available,-33.975782,20.83846,474,1008,23,11,13,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,6-to-12 years
+s2lam091_230712,Not available,Not available,Not available,-33.9758,20.8385,474,715,23,7,12,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,6-to-12 years
+s2lam098_231125,Not near (100 m) any water,Old (> 17 yrs),None,-34.716903,19.937988,473,581,23,11,25,Dry season,Y,N,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam121_230813,Not available,Not available,Not available,-34.7169,19.938,473,621,23,8,13,Wet season,Y,N,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam061_230721,Not available,Not available,Not available,-33.879327,22.0303,472,708,23,7,21,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam091_231017,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",None,-33.879359,22.03036,472,850,23,10,17,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam113_230808,Not available,Not available,Not available,-33.225832,18.1391,471,874,23,8,8,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam113_231127,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.225797,18.139153,471,1276,23,11,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam144_230707,Not available,Not available,Not available,-33.58275,23.4408,470,1128,23,7,7,Wet season,Y,Y,NA,Agriculture,High: >1000 m,25+ years
+s2lam151_230930,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.582753,23.440877,470,1144,23,9,30,Dry season,Y,Y,NA,Agriculture,High: >1000 m,25+ years
+s2lam040_231110,Not near (100 m) any water,Old (> 17 yrs),None,-33.947878,23.136556,469,717,23,11,10,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam114_230804,Not available,Not available,Not available,-33.9479,23.1366,469,727,23,8,4,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam049_230930,Not near (100 m) any water,Old (> 17 yrs),None,-33.591932,23.40869,468,1143,23,9,30,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam127_230707,Not available,Not available,Not available,-33.591918,23.40867,468,1126,23,7,7,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam002_231127,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.161856,18.045542,467,1265,23,11,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam024_230808,Not available,Not available,Not available,-33.1619,18.045571,467,874,23,8,8,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam065_231020,Within 50 m of a river or stream,Not available,Rare to Very Scattered,-33.981945,20.82496,466,1020,23,10,20,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam139_230718,Not available,Not available,Not available,-33.9819,20.825072,466,868,23,7,18,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam088_230819,Not available,Not available,Not available,-33.96792,23.53848,465,714,23,8,19,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam104_231125,Not near (100 m) any water,Old (> 17 yrs),None,-33.967888,23.538435,465,565,23,11,25,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_231004,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.990746,22.698811,463,719,23,10,4,Dry season,Y,Y,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam114_230617,Not available,Not available,Not available,-33.990749,22.6988,463,567,23,6,17,Wet season,Y,Y,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam030_231106,Not near (100 m) any water,Intermediate (6-17 yrs),None,-32.441368,19.195436,462,697,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam046_230805,Not available,Not available,Not available,-32.4414,19.1954,462,848,23,8,5,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam027_230705,Not available,Not available,Not available,-33.9065,19.158487,461,605,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,17-to-25 years
+s2lam189_231123,Not near (100 m) any water,"Young (burned, < 6 yrs)",Scattered to Medium,-33.906443,19.158374,461,431,23,11,23,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,17-to-25 years
+s2lam025_231109,Not available,Not available,Not available,-33.929194,22.450878,460,982,23,11,9,Dry season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam145_230725,Not available,Not available,Not available,-33.929234,22.450883,460,1009,23,7,25,Wet season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam027_231115,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.110852,18.46338,459,589,23,11,15,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam052_230710,Not available,Not available,Not available,-34.11084,18.463375,459,583,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam061_231113,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",Scattered to Medium,-33.893397,22.422274,458,545,23,11,13,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam150_230814,Not available,Not available,Not available,-33.8934,22.4226,458,1148,23,8,14,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam125_230815,Not available,Not available,Not available,-33.340225,21.878355,457,1140,23,8,15,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam160_231005,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-33.34018,21.878358,457,855,23,10,5,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam079_231103,Not near (100 m) any water,Old (> 17 yrs),None,-33.916046,22.957498,456,715,23,11,3,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam104_230725,Not available,Not available,Not available,-33.916014,22.957528,456,1008,23,7,25,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam091_230727,Not available,Not available,Not available,-33.9176,19.8716,455,1022,23,7,27,Wet season,Y,Y,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam163_231010,Not near (100 m) any water,Old (> 17 yrs),None,-33.917557,19.871622,455,1007,23,10,10,Dry season,Y,Y,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam095_231109,Not available,Not available,Not available,-33.929169,22.452302,454,985,23,11,9,Dry season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam165_230725,Not available,Not available,Not available,-33.9293,22.4523,454,1008,23,7,25,Wet season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam088_231020,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.97995,22.611579,453,719,23,10,20,Dry season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam104_230711,Not available,Not available,Not available,-33.98,22.6116,453,571,23,7,11,Wet season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam084_230605,Not available,Not available,Not available,-33.628138,22.9347,452,989,23,6,5,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam137_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.628208,22.93466,452,864,23,11,22,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam104_231011,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.96827,23.402442,451,725,23,10,11,Dry season,Y,N,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_230703,Not available,Not available,Not available,-33.9682,23.4026,451,569,23,7,3,Wet season,Y,N,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam042_230805,Not available,Not available,Not available,-32.534946,19.331781,450,843,23,8,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,25+ years
+s2lam092_231106,Not near (100 m) any water,Old (> 17 yrs),None,-32.534947,19.331823,450,697,23,11,6,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,25+ years
+s2lam115_230714,Not available,Not available,Not available,-33.7342,21.9351,449,994,23,7,14,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam162_231010,Not available,Not available,Not available,-33.734169,21.935163,449,1009,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam093_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.055364,23.218689,448,723,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam104_230811,Not available,Not available,Not available,-34.055338,23.218673,448,715,23,8,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam001_231013,Within 50 m of a river or stream,Not available,None,-33.284607,22.05201,447,962,23,10,13,Dry season,Y,N,NA,Grassland,Medium: 500-1000 m,No data or No Fire
+s2lam118_230713,Not available,Not available,Not available,-33.2847,22.0519,447,837,23,7,13,Wet season,Y,N,NA,Grassland,Medium: 500-1000 m,No data or No Fire
+s2lam010_230807,Not available,Not available,Not available,-33.1736,18.1374,445,1144,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam047_231128,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.173597,18.137392,445,1189,23,11,28,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam071_231115,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.107225,18.438795,444,590,23,11,15,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam086_230710,Not available,Not available,Not available,-34.107227,18.438773,444,578,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam127_231025,Not near (100 m) any water,Old (> 17 yrs),None,-33.470573,20.639655,443,852,23,10,25,Dry season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam130_230725,Not available,Not available,Not available,-33.4706,20.6396,443,1014,23,7,25,Wet season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam057_231011,In or near (25 m) wetland,Not available,None,-34.293432,18.428152,442,171,23,10,11,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam073_230710,Not available,Not available,Not available,-34.293436,18.4282,442,573,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam087_230726,Not available,Not available,Not available,-33.6954,21.640257,441,998,23,7,26,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,17-to-25 years
+s2lam162_231019,Not available,Not available,Not available,-33.695388,21.640262,441,1010,23,10,19,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,17-to-25 years
+s2lam029_231019,Not available,Not available,Not available,-33.636328,21.629526,439,1010,23,10,19,Dry season,Y,Y,NA,Shrubland,Low: 0-500 m,No data or No Fire
+s2lam162_230726,Not available,Not available,Not available,-33.6364,21.6295,439,983,23,7,26,Wet season,Y,Y,NA,Shrubland,Low: 0-500 m,No data or No Fire
+s2lam101_230605,Not available,Not available,Not available,-33.624036,22.94,438,991,23,6,5,Wet season,Y,Y,NA,Grassland,High: >1000 m,1-to-6 years
+s2lam149_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.62405,22.940039,438,868,23,11,22,Dry season,Y,Y,NA,Grassland,High: >1000 m,1-to-6 years
+s2lam152_231109,Not available,Not available,Not available,-33.926508,22.447298,437,992,23,11,9,Dry season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam164_230725,Not available,Not available,Not available,-33.9267,22.4473,437,1003,23,7,25,Wet season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam072_231031,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-32.200103,19.080449,436,687,23,10,31,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam083_230811,Not available,Not available,Not available,-32.2001,19.080454,436,1530,23,8,11,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam103_230726,Not available,Not available,Not available,-33.6422,21.63967,435,983,23,7,26,Wet season,Y,Y,NA,Shrubland,Low: 0-500 m,25+ years
+s2lam103_231019,Not available,Not available,Not available,-33.64218,21.639608,435,1010,23,10,19,Dry season,Y,Y,NA,Shrubland,Low: 0-500 m,25+ years
+s2lam038_231027,Not near (100 m) any water,Old (> 17 yrs),None,-34.082716,22.968498,434,719,23,10,27,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam093_230718,Not available,Not available,Not available,-34.082714,22.968474,434,574,23,7,18,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam101_230725,Not available,Not available,Not available,-34.4052,20.561557,433,735,23,7,25,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam101_231110,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.405165,20.561562,433,723,23,11,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam021_230810,Not available,Not available,Not available,-33.959,21.230158,431,882,23,8,10,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam157_231109,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.958958,21.230142,431,543,23,11,9,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam037_230805,Not available,Not available,Not available,-32.53483,19.312273,430,842,23,8,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,25+ years
+s2lam112_231106,Not near (100 m) any water,Old (> 17 yrs),None,-32.534829,19.312288,430,697,23,11,6,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,25+ years
+s2lam093_231027,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.073685,22.954736,429,720,23,10,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam114_230718,Not available,Not available,Not available,-34.07371,22.9547,429,575,23,7,18,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam041_230811,Not available,Not available,Not available,-34.073445,23.226682,428,713,23,8,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam104_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.07349,23.226665,428,721,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam042_231025,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.033204,19.054828,427,700,23,10,25,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam092_230826,Not available,Not available,Not available,-33.0332,19.0548,427,708,23,8,26,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam054_230812,Not available,Not available,Not available,-34.8097,19.9537,426,780,23,8,12,Wet season,Y,N,NA,Grassland,Low: 0-500 m,No data or No Fire
+s2lam129_231010,Not near (100 m) any water,Old (> 17 yrs),None,-34.809642,19.953747,426,716,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam046_230705,Not available,Not available,Not available,-32.1438,18.9753,425,1270,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,17-to-25 years
+s2lam166_231122,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",None,-32.143792,18.97529,425,416,23,11,22,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,17-to-25 years
+s2lam065_231010,Not near (100 m) any water,Old (> 17 yrs),None,-33.917247,19.900258,424,1006,23,10,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam121_230727,Not available,Not available,Not available,-33.917342,19.9003,424,998,23,7,27,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam022_230726,Not available,Not available,Not available,-33.6512,21.6421,423,1001,23,7,26,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam115_231019,Not available,Not available,Not available,-33.651216,21.642073,423,1012,23,10,19,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam040_230703,Not available,Not available,Not available,-34.001415,23.4019,422,571,23,7,3,Wet season,Y,Y,Estuary,NA,NA,NA
+s2lam079_231011,Within 50 m of a river or stream,Old (> 17 yrs),None,-34.001408,23.401946,422,722,23,10,11,Dry season,Y,Y,Estuary,NA,NA,NA
+s2lam089_230702,Not available,Not available,Not available,-34.089634,18.4301,420,585,23,7,2,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam173_231124,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.089669,18.430236,420,428,23,11,24,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam159_230809,Not available,Not available,Not available,-33.865,23.1524,419,708,23,8,9,Wet season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,No data or No Fire
+s2lam160_231117,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.864918,23.152417,419,565,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,No data or No Fire
+s2lam101_231010,Not near (100 m) any water,Old (> 17 yrs),None,-34.798492,19.966638,418,696,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam140_230812,Not available,Not available,Not available,-34.798518,19.966673,418,712,23,8,12,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam056_231118,Not near (100 m) any water,Old (> 17 yrs),Rare to Very Scattered,-34.001124,18.389408,417,998,23,11,18,Dry season,Y,Y,Seep,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam086_230820,Not available,Not available,Not available,-34.0011,18.3895,417,1021,23,8,20,Wet season,Y,Y,Seep,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam041_231020,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.987151,22.646688,416,722,23,10,20,Dry season,Y,Y,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam088_230711,Not available,Not available,Not available,-33.987141,22.646673,416,559,23,7,11,Wet season,Y,Y,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam002_230807,Not available,Not available,Not available,-33.1192,18.0634,415,1104,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam085_231128,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.119229,18.063431,415,1281,23,11,28,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam086_231113,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-33.978089,20.815244,414,995,23,11,13,Dry season,Y,N,NA,Agriculture,Low: 0-500 m,1-to-6 years
+s2lam152_230712,Not available,Not available,Not available,-33.978123,20.8151,414,716,23,7,12,Wet season,Y,N,NA,Agriculture,Low: 0-500 m,1-to-6 years
+s2lam051_230702,Not available,Not available,Not available,-34.089149,18.417434,413,583,23,7,2,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam193_231124,Not near (100 m) any water,Not available,Rare to Very Scattered,-34.089171,18.417448,413,424,23,11,24,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam131_231026,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.509753,20.621743,412,856,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam138_230802,Not available,Not available,Not available,-33.5098,20.6217,412,717,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam041_231110,Not near (100 m) any water,Old (> 17 yrs),None,-33.954832,23.154322,411,717,23,11,10,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam079_230804,Not available,Not available,Not available,-33.9549,23.154352,411,723,23,8,4,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam026_230705,Not available,Not available,Not available,-34.7229,19.76937,410,711,23,7,5,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam105_231016,In or near (10 m) seep,Intermediate (6-17 yrs),None,-34.723023,19.769303,410,563,23,10,16,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam049_230815,Not available,Not available,Not available,-33.3468,21.982,408,1137,23,8,15,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam155_231005,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.346755,21.982045,408,817,23,10,5,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam032_230714,Not available,Not available,Not available,-33.735526,21.936254,407,990,23,7,14,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam103_231010,Not available,Not available,Not available,-33.735528,21.936247,407,1005,23,10,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam072_230704,Not available,Not available,Not available,-32.394719,19.0885,406,1276,23,7,4,Wet season,Y,N,NA,Grassland,Medium: 500-1000 m,12-to-17 years
+s2lam192_231122,Within 50 m of a river or stream,Old (> 17 yrs),Rare to Very Scattered,-32.394764,19.088557,406,430,23,11,22,Dry season,Y,N,NA,Grassland,Medium: 500-1000 m,12-to-17 years
+s2lam149_231025,Not near (100 m) any water,Old (> 17 yrs),None,-33.49175,20.48436,405,853,23,10,25,Dry season,Y,N,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam151_230725,Not available,Not available,Not available,-33.491749,20.484334,405,1000,23,7,25,Wet season,Y,N,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam030_230826,Not available,Not available,Not available,-33.025848,19.04976,404,709,23,8,26,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam112_231025,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.025866,19.049756,404,698,23,10,25,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam109_230702,Not available,Not available,Not available,-34.0877,18.413357,403,584,23,7,2,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam174_231124,Not near (100 m) any water,Not available,None,-34.08759,18.413293,403,424,23,11,24,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam029_230714,Not available,Not available,Not available,-33.677914,21.8963,402,988,23,7,14,Wet season,Y,N,NA,Grassland,Low: 0-500 m,25+ years
+s2lam029_231010,Not available,Not available,Not available,-33.677968,21.896282,402,1012,23,10,10,Dry season,Y,N,NA,Grassland,Low: 0-500 m,25+ years
+s2lam118_230815,Not available,Not available,Not available,-33.3505,21.9647,401,1137,23,8,15,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,17-to-25 years
+s2lam144_231005,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.350492,21.964745,401,825,23,10,5,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,17-to-25 years
+s2lam077_230823,Not available,Not available,Not available,-34.3277,18.8481,400,579,23,8,23,Wet season,Y,N,Seep,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam134_231107,In or near (10 m) seep,Intermediate (6-17 yrs),Rare to Very Scattered,-34.327681,18.848152,400,992,23,11,7,Dry season,Y,N,Seep,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam022_230714,Not available,Not available,Not available,-33.6837,21.9086,399,987,23,7,14,Wet season,Y,N,NA,Grassland,Medium: 500-1000 m,25+ years
+s2lam108_231010,Not available,Not available,Not available,-33.68373,21.908625,399,1013,23,10,10,Dry season,Y,N,NA,Grassland,Medium: 500-1000 m,25+ years
+s2lam095_230710,Not available,Not available,Not available,-34.0727,20.4507,398,1294,23,7,10,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam140_231009,Within 50 m of a river or stream,Old (> 17 yrs),Rare to Very Scattered,-34.072675,20.45068,398,1014,23,10,9,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam022_231106,Not available,Not available,Not available,-33.66902,21.540404,397,1131,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam108_230808,Not available,Not available,Not available,-33.669031,21.54034,397,975,23,8,8,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam063_231022,Not near (100 m) any water,Intermediate (6-17 yrs),Dense to Closed,-34.473159,20.45838,396,576,23,10,22,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam140_230822,Not available,Not available,Not available,-34.4732,20.458351,396,731,23,8,22,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam038_230819,Not available,Not available,Not available,-33.954595,23.514408,395,711,23,8,19,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam074_231125,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.95463,23.514409,395,563,23,11,25,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam017_230823,Not available,Not available,Not available,-34.353714,18.890773,394,611,23,8,23,Wet season,Y,N,NA,Grassland,Low: 0-500 m,1-to-6 years
+s2lam017_231108,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.353702,18.890794,394,999,23,11,8,Dry season,Y,N,NA,Grassland,Low: 0-500 m,1-to-6 years
+s2lam003_231127,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.147425,18.012425,392,1288,23,11,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam097_230808,Not available,Not available,Not available,-33.147448,18.0124,392,878,23,8,8,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam105_230630,Not available,Not available,Not available,-34.617127,19.8952,391,571,23,6,30,Wet season,Y,Y,Wetland Flat,Water,Low: 0-500 m,No data or No Fire
+s2lam123_231010,In or near (25 m) wetland,Intermediate (6-17 yrs),None,-34.617115,19.89519,391,689,23,10,10,Dry season,Y,Y,Wetland Flat,Water,Low: 0-500 m,No data or No Fire
+s2lam016_230711,Not available,Not available,Not available,-33.995115,22.6205,390,573,23,7,11,Wet season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam114_231020,Not near (100 m) any water,Old (> 17 yrs),None,-33.99512,22.620577,390,722,23,10,20,Dry season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam079_230819,Not available,Not available,Not available,-33.960687,23.543736,389,714,23,8,19,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam079_231125,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.960716,23.543741,389,564,23,11,25,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam117_230725,Not available,Not available,Not available,-33.4712,20.6193,388,1014,23,7,25,Wet season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam159_231025,Not near (100 m) any water,Old (> 17 yrs),None,-33.47115,20.61933,388,852,23,10,25,Dry season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam136_231028,Not near (100 m) any water,Old (> 17 yrs),None,-34.751197,19.672204,386,1007,23,10,28,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam148_230820,Not available,Not available,Not available,-34.7512,19.672272,386,854,23,8,20,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam044_230930,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-33.582328,23.436038,385,1146,23,9,30,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam160_230707,Not available,Not available,Not available,-33.58233,23.436,385,1124,23,7,7,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam063_230725,Not available,Not available,Not available,-34.422711,20.640753,384,712,23,7,25,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam136_231110,Not near (100 m) any water,Intermediate (6-17 yrs),Scattered to Medium,-34.422676,20.640744,384,722,23,11,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam056_230710,Not available,Not available,Not available,-34.2502,18.412881,383,575,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam099_231011,Not near (100 m) any water,Not available,None,-34.250183,18.412891,383,1006,23,10,11,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam010_231115,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.102161,18.455468,382,605,23,11,15,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam089_230717,Not available,Not available,Not available,-34.10214,18.455467,382,1154,23,7,17,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam092_230705,Not available,Not available,Not available,-32.1508,19.026186,381,1268,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam194_231122,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-32.1507,19.026189,381,423,23,11,22,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam040_231027,Within 50 m of a river or stream,Old (> 17 yrs),Dense to Closed,-34.069052,22.944949,380,722,23,10,27,Dry season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,1-to-6 years
+s2lam104_230718,Not available,Not available,Not available,-34.0691,22.944951,380,569,23,7,18,Wet season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,1-to-6 years
+s2lam020_231117,Within 50 m of a river or stream,Old (> 17 yrs),Scattered to Medium,-34.711753,20.090303,379,545,23,11,17,Dry season,Y,Y,Estuary,Water,Low: 0-500 m,No data or No Fire
+s2lam129_230807,Not available,Not available,Not available,-34.711748,20.0903,379,575,23,8,7,Wet season,Y,Y,Wetland Flat,Water,Low: 0-500 m,No data or No Fire
+s2lam069_230710,Not available,Not available,Not available,-34.109068,18.449882,378,631,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam099_231115,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.109067,18.449848,378,587,23,11,15,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam038_230829,Not available,Not available,Not available,-33.954446,23.629488,377,1144,23,8,29,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam074_231130,Not near (100 m) any water,Old (> 17 yrs),None,-33.954389,23.629485,377,844,23,11,30,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam038_230711,Not available,Not available,Not available,-33.9829,22.6044,376,560,23,7,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam040_231020,Not near (100 m) any water,Old (> 17 yrs),None,-33.98288,22.604379,376,722,23,10,20,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam003_230710,Not available,Not available,Not available,-34.3059,18.437463,375,570,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam052_231011,Not near (100 m) any water,Not available,Scattered to Medium,-34.305878,18.437492,375,1006,23,10,11,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam085_230703,Not available,Not available,Not available,-34.00035,18.954167,374,989,23,7,3,Wet season,Y,N,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam096_231027,Within 50 m of a river or stream,Old (> 17 yrs),None,-34.000443,18.954147,374,1001,23,10,27,Dry season,Y,N,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam016_231117,Within 50 m of a river or stream,Old (> 17 yrs),None,-34.033817,23.198472,373,725,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_230811,Not available,Not available,Not available,-34.033775,23.198415,373,715,23,8,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam074_231004,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.990618,22.726437,372,719,23,10,4,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam104_230617,Not available,Not available,Not available,-33.9906,22.726467,372,542,23,6,17,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam002_231103,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.075813,18.402034,371,555,23,11,3,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam068_230717,Not available,Not available,Not available,-34.075806,18.402023,371,1155,23,7,17,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam123_231028,Not near (100 m) any water,Old (> 17 yrs),Rare to Very Scattered,-34.735711,19.664586,370,1015,23,10,28,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam129_230820,Not available,Not available,Not available,-34.73573,19.664601,370,855,23,8,20,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam128_230809,Not available,Not available,Not available,-33.830925,23.1796,369,726,23,8,9,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam131_231117,Not near (100 m) any water,Intermediate (6-17 yrs),Scattered to Medium,-33.831028,23.179633,369,565,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam038_231125,Not near (100 m) any water,Old (> 17 yrs),None,-33.977212,23.571202,368,590,23,11,25,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam093_230818,Not available,Not available,Not available,-33.977215,23.5712,368,867,23,8,18,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam045_231117,Not near (100 m) any water,Old (> 17 yrs),Dense to Closed,-34.706518,20.097313,367,535,23,11,17,Dry season,Y,Y,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam141_230807,Not available,Not available,Not available,-34.70654,20.0973,367,574,23,8,7,Wet season,Y,Y,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam026_230630,Not available,Not available,Not available,-34.664639,19.648163,366,566,23,6,30,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam105_231029,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.664674,19.648086,366,989,23,10,29,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam121_231125,Not near (100 m) any water,Old (> 17 yrs),None,-34.730745,19.949485,365,590,23,11,25,Dry season,Y,N,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam141_230813,Not available,Not available,Not available,-34.730742,19.949452,365,652,23,8,13,Wet season,Y,N,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam046_230826,Not available,Not available,Not available,-33.0058,19.053067,364,709,23,8,26,Wet season,Y,Y,NA,Forest-Woodland,High: >1000 m,6-to-12 years
+s2lam046_231025,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.005776,19.053061,364,697,23,10,25,Dry season,Y,Y,NA,Forest-Woodland,High: >1000 m,6-to-12 years
+s2lam125_230803,Not available,Not available,Not available,-33.4695,20.7191,363,572,23,8,3,Wet season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam154_231025,Not near (100 m) any water,Old (> 17 yrs),None,-33.469463,20.719155,363,853,23,10,25,Dry season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam128_231014,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-33.619727,23.444398,362,1123,23,10,14,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam155_230717,Not available,Not available,Not available,-33.6197,23.4444,362,1441,23,7,17,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam120_230710,Not available,Not available,Not available,-34.0646,20.4391,361,1302,23,7,10,Wet season,Y,N,NA,Wetland,Low: 0-500 m,No data or No Fire
+s2lam148_231009,In or near (10 m) seep,Intermediate (6-17 yrs),None,-34.064732,20.43924,361,1022,23,10,9,Dry season,Y,N,NA,Wetland,Low: 0-500 m,No data or No Fire
+s2lam030_230704,Not available,Not available,Not available,-32.3964,19.0871,360,1272,23,7,4,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,12-to-17 years
+s2lam168_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-32.396407,19.087181,360,430,23,11,22,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,12-to-17 years
+s2lam143_231025,Not near (100 m) any water,Not available,Rare to Very Scattered,-33.442173,20.76316,359,855,23,10,25,Dry season,Y,N,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam159_230725,Not available,Not available,Not available,-33.4422,20.7631,359,1013,23,7,25,Wet season,Y,N,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam040_231130,Not near (100 m) any water,Old (> 17 yrs),None,-33.945995,23.624932,358,847,23,11,30,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam079_230829,Not available,Not available,Not available,-33.946077,23.6249,358,1143,23,8,29,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam105_230820,Not available,Not available,Not available,-34.746171,19.654163,357,854,23,8,20,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam116_231028,Not near (100 m) any water,Old (> 17 yrs),None,-34.746177,19.654136,357,1010,23,10,28,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam103_231114,Not available,Not available,Not available,-33.73812,21.672266,356,864,23,11,14,Dry season,Y,N,River,Bare,Low: 0-500 m,No data or No Fire
+s2lam162_230822,Not available,Not available,Not available,-33.738029,21.672257,356,989,23,8,22,Wet season,Y,N,River,Grassland,Low: 0-500 m,No data or No Fire
+s2lam063_230822,Not available,Not available,Not available,-34.461645,20.4306,353,732,23,8,22,Wet season,Y,Y,Depression,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam126_231022,In or near (25 m) wetland,Intermediate (6-17 yrs),None,-34.461662,20.430646,353,575,23,10,22,Dry season,Y,Y,Depression,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam039_231005,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.344662,21.916993,352,414,23,10,5,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam138_230815,Not available,Not available,Not available,-33.344728,21.916987,352,1138,23,8,15,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam032_230808,Not available,Not available,Not available,-33.670513,21.544025,351,976,23,8,8,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam122_231106,Not available,Not available,Not available,-33.67048,21.543973,351,1131,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam120_230812,Not available,Not available,Not available,-34.734,19.969982,350,711,23,8,12,Wet season,Y,N,Estuary,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam123_231125,Not near (100 m) any water,Old (> 17 yrs),Rare to Very Scattered,-34.73398,19.969947,350,573,23,11,25,Dry season,Y,N,Estuary,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam128_230802,Not available,Not available,Not available,-33.5081,20.6507,349,718,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam160_231026,In or near (10 m) seep,"Young (burned, < 6 yrs)",None,-33.50808,20.650743,349,855,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam131_230802,Not available,Not available,Not available,-33.5048,20.666078,348,718,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam137_231026,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-33.50481,20.666133,348,854,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam128_230930,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-33.591572,23.415447,347,1144,23,9,30,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam143_230707,Not available,Not available,Not available,-33.5916,23.415483,347,1124,23,7,7,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam101_231028,In or near (25 m) wetland,Old (> 17 yrs),None,-34.741543,19.658924,345,1011,23,10,28,Dry season,Y,N,Depression,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam126_230820,Not available,Not available,Not available,-34.741527,19.6588,345,854,23,8,20,Wet season,Y,N,Seep,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam104_230804,Not available,Not available,Not available,-33.948147,23.142793,344,729,23,8,4,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_231110,Not near (100 m) any water,Old (> 17 yrs),None,-33.94817,23.142734,344,717,23,11,10,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam046_231106,Not near (100 m) any water,Intermediate (6-17 yrs),None,-32.436223,19.179288,343,696,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam083_230805,Not available,Not available,Not available,-32.436214,19.17926,343,765,23,8,5,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam074_231103,Not near (100 m) any water,Old (> 17 yrs),None,-33.912325,22.965745,342,716,23,11,3,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_230725,Not available,Not available,Not available,-33.912348,22.9657,342,1009,23,7,25,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam119_230802,Not available,Not available,Not available,-33.501017,20.7155,341,718,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam151_231026,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.500992,20.715478,341,855,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam001_230809,Not available,Not available,Not available,-33.91151,23.13604,340,691,23,8,9,Wet season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam119_231117,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-33.91147,23.136082,340,565,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam038_230804,Not available,Not available,Not available,-33.951202,23.160211,339,723,23,8,4,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam093_231110,Not near (100 m) any water,Old (> 17 yrs),None,-33.951098,23.160279,339,716,23,11,10,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam067_231005,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.345115,21.991305,338,813,23,10,5,Dry season,Y,Y,NA,Agriculture,High: >1000 m,12-to-17 years
+s2lam117_230815,Not available,Not available,Not available,-33.345123,21.9913,338,1177,23,8,15,Wet season,Y,Y,NA,Agriculture,High: >1000 m,12-to-17 years
+s2lam010_231103,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.08651,18.416975,335,558,23,11,3,Dry season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam069_230717,Not available,Not available,Not available,-34.0865,18.41699,335,1160,23,7,17,Wet season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam054_230630,Not available,Not available,Not available,-34.6571,19.6213,334,567,23,6,30,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam063_231029,Not near (100 m) any water,Old (> 17 yrs),None,-34.657169,19.621429,334,981,23,10,29,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam005_231113,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.884555,22.439743,333,560,23,11,13,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam061_230814,Not available,Not available,Not available,-33.8847,22.4398,333,1142,23,8,14,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam115_231010,Not available,Not available,Not available,-33.731007,21.938149,332,1009,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam122_230714,Not available,Not available,Not available,-33.730929,21.9381,332,996,23,7,14,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam109_230710,Not available,Not available,Not available,-34.109921,18.455757,331,582,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam113_231115,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.109922,18.455769,331,586,23,11,15,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam085_230808,Not available,Not available,Not available,-33.1493,18.029183,330,877,23,8,8,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam133_231127,Not available,Intermediate (6-17 yrs),None,-33.14928,18.029158,330,1265,23,11,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam116_230807,Not available,Not available,Not available,-34.701,20.0906,329,575,23,8,7,Wet season,Y,Y,Estuary,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam136_231117,In or near (25 m) wetland,Old (> 17 yrs),Rare to Very Scattered,-34.700958,20.090602,329,543,23,11,17,Dry season,Y,Y,Estuary,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam044_230815,Not available,Not available,Not available,-33.347,21.9313,328,1138,23,8,15,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam154_231005,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.347012,21.931378,328,837,23,10,5,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam117_230703,Not available,Not available,Not available,-34.323022,18.9642,327,1118,23,7,3,Wet season,Y,Y,Seep,Wetland,Low: 0-500 m,1-to-6 years
+s2lam144_231130,In or near (25 m) wetland,Intermediate (6-17 yrs),None,-34.323225,18.964367,327,618,23,11,30,Dry season,Y,Y,Seep,Wetland,Low: 0-500 m,1-to-6 years
+s2lam017_231118,Within 50 m of a river or stream,Old (> 17 yrs),Rare to Very Scattered,-34.005139,18.390442,326,998,23,11,18,Dry season,Y,Y,Floodplain,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam089_230820,Not available,Not available,Not available,-34.005238,18.390386,326,1030,23,8,20,Wet season,Y,Y,Floodplain,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam109_231010,Not near (100 m) any water,Old (> 17 yrs),None,-33.944028,19.8949,325,1008,23,10,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam163_230727,Not available,Not available,Not available,-33.943817,19.8949,325,985,23,7,27,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam030_231031,Not near (100 m) any water,Intermediate (6-17 yrs),None,-32.253127,19.146051,324,692,23,10,31,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam112_230812,Not available,Not available,Not available,-32.253128,19.146038,324,1457,23,8,12,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam076_230815,Not available,Not available,Not available,-33.3442,22.0214,323,1185,23,8,15,Wet season,Y,Y,NA,Forest-Woodland,High: >1000 m,6-to-12 years
+s2lam138_231011,In or near (25 m) wetland,Intermediate (6-17 yrs),None,-33.344107,22.021478,323,1265,23,10,11,Dry season,Y,Y,NA,Forest-Woodland,High: >1000 m,6-to-12 years
+s2lam106_230725,Not available,Not available,Not available,-33.9279,22.4516,322,1009,23,7,25,Wet season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam164_231109,Not available,Not available,Not available,-33.92786,22.451706,322,987,23,11,9,Dry season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam158_231014,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-33.610533,23.436025,321,1121,23,10,14,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam160_230717,Not available,Not available,Not available,-33.610533,23.436,321,1433,23,7,17,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam063_230812,Not available,Not available,Not available,-34.8089,19.9618,320,710,23,8,12,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam136_231010,Not near (100 m) any water,Old (> 17 yrs),None,-34.80887,19.961828,320,695,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam130_231013,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.336918,22.037722,319,985,23,10,13,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam138_230713,Not available,Not available,Not available,-33.3369,22.0377,319,866,23,7,13,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam074_230617,Not available,Not available,Not available,-33.9873,22.696658,318,273,23,6,17,Wet season,Y,Y,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam093_231004,Not near (100 m) any water,Old (> 17 yrs),None,-33.987271,22.696611,318,719,23,10,4,Dry season,Y,Y,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam072_231025,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.038745,19.05491,317,700,23,10,25,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam083_230826,Not available,Not available,Not available,-33.0388,19.054888,317,116,23,8,26,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam089_231106,Not near (100 m) any water,Not available,None,-32.526707,19.348005,316,697,23,11,6,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam112_230805,Not available,Not available,Not available,-32.5267,19.347983,316,844,23,8,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam074_230804,Not available,Not available,Not available,-33.9566,23.1432,315,724,23,8,4,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam104_231110,Not near (100 m) any water,Old (> 17 yrs),None,-33.956596,23.143182,315,718,23,11,10,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam096_231128,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.113004,18.090895,314,1281,23,11,28,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam132_230807,Not available,Not available,Not available,-33.113033,18.0908,314,1125,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam087_231115,Not available,Not available,Not available,-33.673987,21.887969,313,863,23,11,15,Dry season,Y,N,NA,Grassland,Low: 0-500 m,25+ years
+s2lam162_230707,Not available,Not available,Not available,-33.673928,21.887988,313,737,23,7,7,Wet season,Y,N,NA,Grassland,Low: 0-500 m,25+ years
+s2lam041_231103,Not near (100 m) any water,Old (> 17 yrs),None,-33.899727,22.97416,312,717,23,11,3,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam079_230725,Not available,Not available,Not available,-33.8999,22.9741,312,1010,23,7,25,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam054_230605,Not available,Not available,Not available,-33.625639,22.9447,311,1018,23,6,5,Wet season,Y,Y,NA,Grassland,High: >1000 m,1-to-6 years
+s2lam128_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.625673,22.944906,311,871,23,11,22,Dry season,Y,Y,NA,Grassland,High: >1000 m,1-to-6 years
+s2lam091_230605,Not available,Not available,Not available,-33.634826,22.949,310,804,23,6,5,Wet season,Y,Y,NA,Forest-Woodland,High: >1000 m,1-to-6 years
+s2lam160_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.634998,22.949071,310,874,23,11,22,Dry season,Y,Y,NA,Forest-Woodland,High: >1000 m,1-to-6 years
+s2lam038_230725,Not available,Not available,Not available,-33.921316,22.957114,309,1007,23,7,25,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam040_231103,Not near (100 m) any water,Old (> 17 yrs),None,-33.921281,22.957158,309,715,23,11,3,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam121_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.70942,20.107237,308,544,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam148_230807,Not available,Not available,Not available,-34.7094,20.1073,308,658,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam058_230605,Not available,Not available,Not available,-33.627899,22.919374,307,990,23,6,5,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam151_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.627924,22.919394,307,855,23,11,22,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam037_231106,Not near (100 m) any water,Old (> 17 yrs),None,-32.538168,19.325103,306,697,23,11,6,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,25+ years
+s2lam072_230805,Not available,Not available,Not available,-32.5382,19.325059,306,842,23,8,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,25+ years
+s2lam138_231026,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",None,-33.505782,20.61335,305,855,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam151_230802,Not available,Not available,Not available,-33.5058,20.6133,305,715,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam060_230930,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.587948,23.427943,304,1144,23,9,30,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam155_230707,Not available,Not available,Not available,-33.5879,23.427962,304,1126,23,7,7,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam088_231130,Not near (100 m) any water,Old (> 17 yrs),None,-33.947682,23.602896,303,858,23,11,30,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam104_230829,Not available,Not available,Not available,-33.947667,23.602766,303,1158,23,8,29,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam032_230822,Not available,Not available,Not available,-33.636612,21.652916,302,995,23,8,22,Wet season,Y,N,NA,Wetland,Low: 0-500 m,No data or No Fire
+s2lam122_231114,Not available,Not available,Not available,-33.636617,21.652931,302,818,23,11,14,Dry season,Y,N,NA,Wetland,Low: 0-500 m,No data or No Fire
+s2lam088_231125,Not near (100 m) any water,Old (> 17 yrs),None,-33.958862,23.521013,301,564,23,11,25,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam114_230819,Not available,Not available,Not available,-33.958856,23.521017,301,704,23,8,19,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam077_230808,Not available,Not available,Not available,-33.125872,18.061175,300,1005,23,8,8,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam132_231128,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.125875,18.061246,300,1282,23,11,28,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam040_230811,Not available,Not available,Not available,-34.0621,23.231482,298,713,23,8,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam041_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.06201,23.231513,298,722,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam056_230907,Not available,Not available,Not available,-33.68596,19.097781,297,990,23,9,7,Wet season,Y,N,Seep,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam056_231018,Not available,Not available,Not available,-33.685952,19.097787,297,997,23,10,18,Dry season,Y,N,Seep,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam003_231011,Not near (100 m) any water,Not available,Rare to Very Scattered,-34.288709,18.447733,296,1006,23,10,11,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam055_230710,Not available,Not available,Not available,-34.2887,18.4477,296,573,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam023_231028,In or near (25 m) wetland,Intermediate (6-17 yrs),Rare to Very Scattered,-34.743731,19.690498,295,1002,23,10,28,Dry season,Y,N,Wetland Flat,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam120_230820,Not available,Not available,Not available,-34.7437,19.6905,295,846,23,8,20,Wet season,Y,N,Wetland Flat,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam037_231025,In or near (10 m) seep,Intermediate (6-17 yrs),Rare to Very Scattered,-32.972966,19.052719,294,706,23,10,25,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,12-to-17 years
+s2lam042_230826,Not available,Not available,Not available,-32.973,19.0527,294,743,23,8,26,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,12-to-17 years
+s2lam040_230829,Not available,Not available,Not available,-33.941989,23.60299,292,1157,23,8,29,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam041_231130,Not near (100 m) any water,Old (> 17 yrs),None,-33.942027,23.603066,292,855,23,11,30,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam038_230703,Not available,Not available,Not available,-33.995638,23.4027,291,571,23,7,3,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam040_231011,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.995719,23.402665,291,721,23,10,11,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam017_231027,Not near (100 m) any water,"Young (burned, < 6 yrs)",Scattered to Medium,-33.990013,18.955584,290,999,23,10,27,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam113_230703,Not available,Not available,Not available,-33.99,18.9556,290,999,23,7,3,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam001_231117,Not near (100 m) any water,Intermediate (6-17 yrs),Scattered to Medium,-33.84589,23.194688,289,565,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam137_230809,Not available,Not available,Not available,-33.84592,23.194678,289,722,23,8,9,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam069_230702,Not available,Not available,Not available,-34.081731,18.4007,288,584,23,7,2,Wet season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam180_231124,Not near (100 m) any water,Not available,Rare to Very Scattered,-34.081756,18.400527,288,427,23,11,24,Dry season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam103_230808,Not available,Not available,Not available,-33.680519,21.5587,287,989,23,8,8,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam115_231106,Not available,Not available,Not available,-33.680393,21.558757,287,1137,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam084_230807,Not available,Not available,Not available,-34.6965,20.1379,286,574,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam129_231117,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.696495,20.137938,286,580,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam020_230727,Not available,Not available,Not available,-33.9227,19.886563,285,986,23,7,27,Wet season,Y,Y,NA,Grassland,Low: 0-500 m,No data or No Fire
+s2lam141_231010,Not near (100 m) any water,Old (> 17 yrs),None,-33.922632,19.88656,285,1008,23,10,10,Dry season,Y,Y,NA,Grassland,Low: 0-500 m,No data or No Fire
+s2lam086_231010,Not near (100 m) any water,Old (> 17 yrs),None,-33.931983,19.894443,283,1008,23,10,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam157_230727,Not available,Not available,Not available,-33.931932,19.8943,283,995,23,7,27,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam135_230815,Not available,Not available,Not available,-33.350132,21.948863,282,1138,23,8,15,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam142_231005,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",None,-33.350135,21.948908,282,831,23,10,5,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam054_230822,Not available,Not available,Not available,-34.4428,20.4198,281,698,23,8,22,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam136_231022,Not near (100 m) any water,Intermediate (6-17 yrs),Scattered to Medium,-34.442845,20.420027,281,572,23,10,22,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam040_230718,Not available,Not available,Not available,-34.0586,22.935887,280,570,23,7,18,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam107_231027,Not near (100 m) any water,Intermediate (6-17 yrs),Scattered to Medium,-34.058529,22.935913,280,723,23,10,27,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam032_231019,Not available,Not available,Not available,-33.639155,21.651409,279,1009,23,10,19,Dry season,Y,N,NA,Bare,Low: 0-500 m,No data or No Fire
+s2lam082_230726,Not available,Not available,Not available,-33.639141,21.6514,279,1008,23,7,26,Wet season,Y,N,NA,Bare,Low: 0-500 m,No data or No Fire
+s2lam077_231108,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.349062,18.8752,278,869,23,11,8,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam085_230822,Not available,Not available,Not available,-34.349029,18.8752,278,845,23,8,22,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam001_230802,Not available,Not available,Not available,-33.5012,20.6946,277,718,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam142_231026,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.501192,20.694667,277,854,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam125_230809,Not available,Not available,Not available,-33.7565,23.1564,276,740,23,8,9,Wet season,Y,Y,NA,Grassland,Medium: 500-1000 m,No data or No Fire
+s2lam125_231117,Within 50 m of a river or stream,Old (> 17 yrs),Rare to Very Scattered,-33.756392,23.156405,276,595,23,11,17,Dry season,Y,Y,NA,Grassland,Medium: 500-1000 m,No data or No Fire
+s2lam006_231127,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.229818,18.163672,275,1283,23,11,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam080_230807,Not available,Not available,Not available,-33.229822,18.1637,275,1161,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam025_230721,Not available,Not available,Not available,-33.872425,22.0303,274,706,23,7,21,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam165_231017,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.872427,22.030327,274,847,23,10,17,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam127_231013,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.351565,22.04528,273,994,23,10,13,Dry season,Y,Y,NA,Grassland,High: >1000 m,6-to-12 years
+s2lam130_230713,Not available,Not available,Not available,-33.351647,22.0452,273,871,23,7,13,Wet season,Y,Y,NA,Grassland,High: >1000 m,6-to-12 years
+s2lam119_231001,Not near (100 m) any water,Old (> 17 yrs),None,-33.523707,23.448002,272,1136,23,10,1,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam158_230707,Not available,Not available,Not available,-33.523715,23.448,272,1142,23,7,7,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam037_230812,Not available,Not available,Not available,-32.211417,19.104752,271,1445,23,8,12,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam037_231031,Not near (100 m) any water,Intermediate (6-17 yrs),None,-32.211397,19.104774,271,690,23,10,31,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam041_230804,Not available,Not available,Not available,-33.9588,23.133974,270,724,23,8,4,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam114_231110,Not near (100 m) any water,Old (> 17 yrs),None,-33.958771,23.133951,270,719,23,11,10,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam026_231125,In or near (25 m) wetland,Old (> 17 yrs),None,-34.722877,19.951702,269,586,23,11,25,Dry season,Y,N,Estuary,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam136_230813,Not available,Not available,Not available,-34.72287,19.951677,269,621,23,8,13,Wet season,Y,N,Estuary,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam022_230808,Not available,Not available,Not available,-33.671718,21.553165,268,977,23,8,8,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam087_231106,Not available,Not available,Not available,-33.671711,21.553224,268,1130,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam001_230713,Not available,Not available,Not available,-33.325118,22.037857,267,859,23,7,13,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam039_231013,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.325148,22.037875,267,975,23,10,13,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam029_230808,Not available,Not available,Not available,-33.682,21.566976,266,1004,23,8,8,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam103_231106,Not available,Not available,Not available,-33.682061,21.567002,266,1155,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam032_231106,Not available,Not available,Not available,-33.679662,21.563235,265,1147,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam115_230808,Not available,Not available,Not available,-33.679665,21.563197,265,998,23,8,8,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam052_230717,Not available,Not available,Not available,-34.07599,18.398091,264,1156,23,7,17,Wet season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam133_231103,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.075933,18.398138,264,553,23,11,3,Dry season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam021_231110,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-34.41333,20.595315,263,722,23,11,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam078_230725,Not available,Not available,Not available,-34.4134,20.595287,263,726,23,7,25,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam118_230802,Not available,Not available,Not available,-33.507125,20.6337,262,717,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam158_231026,In or near (25 m) wetland,Intermediate (6-17 yrs),None,-33.507152,20.633783,262,855,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam050_230805,Not available,Not available,Not available,-32.4347,19.1961,261,842,23,8,5,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam083_231106,Not near (100 m) any water,Intermediate (6-17 yrs),None,-32.434662,19.196175,261,696,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam129_231125,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.71797,19.933635,260,579,23,11,25,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam148_230813,Not available,Not available,Not available,-34.718,19.9336,260,622,23,8,13,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam040_230818,Not available,Not available,Not available,-33.9712,23.561,259,857,23,8,18,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_231125,Not near (100 m) any water,Old (> 17 yrs),None,-33.971259,23.561039,259,578,23,11,25,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam069_231020,Not near (100 m) any water,Not available,None,-33.982755,20.83418,258,1146,23,10,20,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam146_230718,Not available,Not available,Not available,-33.982758,20.83415,258,868,23,7,18,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam071_230710,Not available,Not available,Not available,-34.079222,18.40958,257,577,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam113_231103,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.07923,18.409593,257,551,23,11,3,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam044_231026,Not near (100 m) any water,Old (> 17 yrs),None,-33.485783,20.696508,256,854,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam131_230725,Not available,Not available,Not available,-33.4858,20.6965,256,1009,23,7,25,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam020_231028,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.744433,19.678619,255,1000,23,10,28,Dry season,Y,N,Wetland Flat,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam123_230820,Not available,Not available,Not available,-34.744428,19.6786,255,859,23,8,20,Wet season,Y,N,Wetland Flat,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam038_231103,Not near (100 m) any water,Old (> 17 yrs),None,-33.892846,22.970852,254,717,23,11,3,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam074_230725,Not available,Not available,Not available,-33.8929,22.970878,254,1010,23,7,25,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam001_231001,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.607295,23.414687,253,1006,23,10,1,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam144_230717,Not available,Not available,Not available,-33.6073,23.414653,253,1430,23,7,17,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam078_231022,Not near (100 m) any water,Old (> 17 yrs),Rare to Very Scattered,-34.455806,20.439433,252,574,23,10,22,Dry season,Y,Y,Depression,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam139_230822,Not available,Not available,Not available,-34.4558,20.4394,252,749,23,8,22,Wet season,Y,Y,Depression,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam003_231103,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.082324,18.411441,251,558,23,11,3,Dry season,Y,Y,Seep,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam109_230717,Not available,Not available,Not available,-34.0823,18.4114,251,1159,23,7,17,Wet season,Y,Y,Seep,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam023_230810,Not available,Not available,Not available,-33.9472,21.2274,250,861,23,8,10,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam163_231109,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.947215,21.227392,250,545,23,11,9,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam015_231107,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.354611,18.828875,249,992,23,11,7,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam024_230822,Not available,Not available,Not available,-34.354617,18.8289,249,839,23,8,22,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam081_230605,Not available,Not available,Not available,-33.647949,22.9583,248,989,23,6,5,Wet season,Y,Y,NA,Bare,High: >1000 m,1-to-6 years
+s2lam118_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.648136,22.958067,248,887,23,11,22,Dry season,Y,Y,NA,Forest-Woodland,High: >1000 m,6-to-12 years
+s2lam111_230717,Not available,Not available,Not available,-33.6079,23.4242,246,1402,23,7,17,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam118_231001,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.607893,23.424187,246,1007,23,10,1,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam068_230702,Not available,Not available,Not available,-34.089624,18.4282,245,586,23,7,2,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam172_231124,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.089618,18.428222,245,419,23,11,24,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam045_231110,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.408475,20.623218,244,720,23,11,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam058_230725,Not available,Not available,Not available,-34.408515,20.623369,244,710,23,7,25,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam058_231010,Not near (100 m) any water,Old (> 17 yrs),None,-34.815375,19.96855,243,664,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam129_230812,Not available,Not available,Not available,-34.8154,19.968568,243,713,23,8,12,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam114_230725,Not available,Not available,Not available,-33.917271,22.962437,242,1008,23,7,25,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam114_231103,Not near (100 m) any water,Old (> 17 yrs),None,-33.917207,22.962508,242,716,23,11,3,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam016_231125,Within 50 m of a river or stream,Old (> 17 yrs),Rare to Very Scattered,-33.969426,23.563199,241,582,23,11,25,Dry season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam074_230818,Not available,Not available,Not available,-33.969435,23.5632,241,856,23,8,18,Wet season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam032_231010,Not available,Not available,Not available,-33.697195,21.921011,240,1011,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam082_230714,Not available,Not available,Not available,-33.697213,21.921066,240,988,23,7,14,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam016_230811,Not available,Not available,Not available,-34.0527,23.211653,239,714,23,8,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam038_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.052768,23.211702,239,724,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam119_230713,Not available,Not available,Not available,-33.309743,22.04615,238,843,23,7,13,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,12-to-17 years
+s2lam159_231013,In or near (10 m) seep,Old (> 17 yrs),None,-33.30974,22.04608,238,968,23,10,13,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,12-to-17 years
+s2lam022_231010,Not available,Not available,Not available,-33.73512,21.935096,237,1007,23,10,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam087_230714,Not available,Not available,Not available,-33.735136,21.9351,237,994,23,7,14,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam068_230622,Not available,Not available,Not available,-33.9827,20.823,236,998,23,6,22,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam141_231020,Not near (100 m) any water,Old (> 17 yrs),Rare to Very Scattered,-33.982821,20.822915,236,1016,23,10,20,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam015_231118,Within 50 m of a river or stream,Old (> 17 yrs),Rare to Very Scattered,-33.996339,18.392637,235,1000,23,11,18,Dry season,Y,Y,Floodplain,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam110_230820,Not available,Not available,Not available,-33.9964,18.392588,235,1004,23,8,20,Wet season,Y,Y,Floodplain,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam058_231022,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.4611,20.426916,234,574,23,10,22,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam136_230822,Not available,Not available,Not available,-34.4611,20.426868,234,724,23,8,22,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam104_231130,Not near (100 m) any water,Old (> 17 yrs),None,-33.965346,23.58584,233,860,23,11,30,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_230829,Not available,Not available,Not available,-33.965325,23.585821,233,1136,23,8,29,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam021_230718,Not available,Not available,Not available,-33.9835,20.832778,232,869,23,7,18,Wet season,Y,N,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam110_231020,Not near (100 m) any water,Not available,None,-33.983405,20.83294,232,1024,23,10,20,Dry season,Y,N,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam041_230703,Not available,Not available,Not available,-33.961,23.4015,231,569,23,7,3,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam093_231011,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.960999,23.401491,231,725,23,10,11,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam026_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.705907,20.118435,230,592,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam121_230807,Not available,Not available,Not available,-34.7059,20.1184,230,573,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam131_231203,Not near (100 m) any water,Old (> 17 yrs),None,-33.585553,23.397605,229,1858,23,12,3,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam111_231005,Not near (100 m) any water,Old (> 17 yrs),None,-33.343473,21.901438,228,846,23,10,5,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam137_230815,Not available,Not available,Not available,-33.343443,21.901353,228,1138,23,8,15,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam078_230605,Not available,Not available,Not available,-33.6223,22.9266,227,225,23,6,5,Wet season,Y,Y,NA,Grassland,High: >1000 m,1-to-6 years
+s2lam159_231122,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",None,-33.622495,22.92673,227,860,23,11,22,Dry season,Y,Y,NA,Grassland,High: >1000 m,1-to-6 years
+s2lam074_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.046231,23.204539,226,725,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam088_230811,Not available,Not available,Not available,-34.0462,23.2046,226,714,23,8,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam016_230725,Not available,Not available,Not available,-33.8999,22.9422,225,1008,23,7,25,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam104_231103,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.899795,22.942236,225,716,23,11,3,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam006_230710,Not available,Not available,Not available,-34.2389,18.3864,224,575,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam071_231011,Not near (100 m) any water,Not available,Rare to Very Scattered,-34.238826,18.386401,224,1004,23,10,11,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam116_231117,In or near (25 m) wetland,Old (> 17 yrs),None,-34.710132,20.113615,223,598,23,11,17,Dry season,Y,Y,Estuary,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam126_230807,Not available,Not available,Not available,-34.710142,20.1136,223,572,23,8,7,Wet season,Y,Y,Estuary,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam046_231031,Within 50 m of a river or stream,Old (> 17 yrs),None,-32.27318,19.162812,222,689,23,10,31,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,17-to-25 years
+s2lam050_230812,Not available,Not available,Not available,-32.273159,19.16281,222,1457,23,8,12,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,17-to-25 years
+s2lam088_230804,Not available,Not available,Not available,-33.9571,23.149367,221,724,23,8,4,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam088_231110,Not near (100 m) any water,Old (> 17 yrs),None,-33.957074,23.149438,221,718,23,11,10,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam051_230710,Not available,Not available,Not available,-34.105866,18.462608,220,571,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam133_231115,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.105865,18.462606,220,610,23,11,15,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam111_231117,Not near (100 m) any water,Not available,Dense to Closed,-33.858808,23.184257,219,565,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam119_230809,Not available,Not available,Not available,-33.858818,23.1842,219,717,23,8,9,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam045_231011,In or near (25 m) wetland,Intermediate (6-17 yrs),Rare to Very Scattered,-34.608681,19.904656,218,555,23,10,11,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam084_230630,Not available,Not available,Not available,-34.6087,19.9046,218,573,23,6,30,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam065_230702,Not available,Not available,Not available,-34.097,18.4266,217,583,23,7,2,Wet season,Y,Y,Seep,Grassland,Low: 0-500 m,No data or No Fire
+s2lam179_231124,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-34.097004,18.426633,217,441,23,11,24,Dry season,Y,Y,Seep,Grassland,Low: 0-500 m,No data or No Fire
+s2lam101_231022,In or near (25 m) wetland,Intermediate (6-17 yrs),None,-34.449541,20.411946,216,572,23,10,22,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam157_230822,Not available,Not available,Not available,-34.44953,20.4119,216,704,23,8,22,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam003_230807,Not available,Not available,Not available,-33.2471,18.193872,215,999,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam027_231127,Not near (100 m) any water,Old (> 17 yrs),None,-33.247096,18.19386,215,2151,23,11,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam118_231025,Not near (100 m) any water,Not available,None,-33.438007,20.776108,214,869,23,10,25,Dry season,Y,N,NA,Bare,Medium: 500-1000 m,No data or No Fire
+s2lam128_230725,Not available,Not available,Not available,-33.4381,20.7761,214,1014,23,7,25,Wet season,Y,N,NA,Bare,Medium: 500-1000 m,No data or No Fire
+s2lam010_231127,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.222572,18.107852,213,1280,23,11,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam099_230808,Not available,Not available,Not available,-33.2226,18.1079,213,876,23,8,8,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam105_230807,Not available,Not available,Not available,-34.6949,20.148057,212,574,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam123_231117,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.694868,20.148072,212,577,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam041_230818,Not available,Not available,Not available,-33.985949,23.5464,211,886,23,8,18,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam041_231125,Not near (100 m) any water,Old (> 17 yrs),None,-33.985965,23.546416,211,594,23,11,25,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam093_230829,Not available,Not available,Not available,-33.957396,23.633898,210,1145,23,8,29,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam093_231130,Not near (100 m) any water,Intermediate (6-17 yrs),Scattered to Medium,-33.957443,23.633887,210,844,23,11,30,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam006_231011,Not near (100 m) any water,Not available,Rare to Very Scattered,-34.320883,18.456095,209,373,23,10,11,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam027_230710,Not available,Not available,Not available,-34.3209,18.4561,209,570,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam086_230717,Not available,Not available,Not available,-34.0793,18.4066,207,1159,23,7,17,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam099_231103,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.079369,18.406653,207,557,23,11,3,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam131_231014,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.621608,23.448027,205,1121,23,10,14,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam158_230717,Not available,Not available,Not available,-33.6216,23.448,205,1432,23,7,17,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam097_230703,Not available,Not available,Not available,-33.99043,18.9523,204,984,23,7,3,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,1-to-6 years
+s2lam134_231027,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.990359,18.952424,204,1000,23,10,27,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,1-to-6 years
+s2lam131_230703,Not available,Not available,Not available,-34.32354,18.9733,203,1121,23,7,3,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam138_231130,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.323467,18.973355,203,605,23,11,30,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam096_231107,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.353588,18.837701,202,990,23,11,7,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam113_230822,Not available,Not available,Not available,-34.3536,18.8377,202,844,23,8,22,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam088_230725,Not available,Not available,Not available,-33.888828,22.969278,201,1011,23,7,25,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_231103,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.88875,22.969281,201,716,23,11,3,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam059_230704,Not available,Not available,Not available,-32.3456,19.0331,200,1276,23,7,4,Wet season,Y,N,NA,Bare,Low: 0-500 m,1-to-6 years
+s2lam175_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-32.345544,19.033037,200,436,23,11,22,Dry season,Y,N,NA,Bare,Low: 0-500 m,1-to-6 years
+s2lam047_230823,Not available,Not available,Not available,-34.3539,18.854178,199,699,23,8,23,Wet season,Y,N,Seep,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam080_231108,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.353868,18.854214,199,1005,23,11,8,Dry season,Y,N,Seep,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam044_231117,Not near (100 m) any water,Intermediate (6-17 yrs),Scattered to Medium,-33.752953,23.167333,198,566,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam118_230809,Not available,Not available,Not available,-33.753,23.167355,198,749,23,8,9,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam040_230711,Not available,Not available,Not available,-33.9776,22.6051,196,559,23,7,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam104_231020,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.977611,22.60513,196,719,23,10,20,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam079_231130,Not near (100 m) any water,Old (> 17 yrs),None,-33.935994,23.600517,195,851,23,11,30,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam114_230829,Not available,Not available,Not available,-33.935932,23.600548,195,1156,23,8,29,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam055_230705,Not available,Not available,Not available,-34.0022,19.189283,194,592,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam183_231123,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.002205,19.189269,194,422,23,11,23,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam090_230718,Not available,Not available,Not available,-33.60309,23.353797,193,1354,23,7,18,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam137_231003,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.603022,23.353827,193,819,23,10,3,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam079_231027,Not near (100 m) any water,Intermediate (6-17 yrs),Scattered to Medium,-34.064742,22.940053,192,723,23,10,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam107_230718,Not available,Not available,Not available,-34.0648,22.94,192,569,23,7,18,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam038_230811,Not available,Not available,Not available,-34.0779,23.2267,190,713,23,8,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam040_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.078025,23.226762,190,720,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam016_231110,Not near (100 m) any water,Old (> 17 yrs),None,-33.948201,23.163759,189,717,23,11,10,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam040_230804,Not available,Not available,Not available,-33.9482,23.1637,189,723,23,8,4,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam069_231010,Not near (100 m) any water,Old (> 17 yrs),None,-33.922692,19.897375,188,1007,23,10,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam148_230727,Not available,Not available,Not available,-33.923047,19.89727,188,997,23,7,27,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam051_230820,Not available,Not available,Not available,-33.993,18.390463,187,988,23,8,20,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam096_231118,Within 50 m of a river or stream,Old (> 17 yrs),Rare to Very Scattered,-33.993034,18.390465,187,1002,23,11,18,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_230819,Not available,Not available,Not available,-33.973643,23.543244,186,714,23,8,19,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam114_231125,Not near (100 m) any water,Old (> 17 yrs),None,-33.973644,23.543231,186,566,23,11,25,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam086_230702,Not available,Not available,Not available,-34.0958,18.4324,185,584,23,7,2,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam190_231124,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.095748,18.432478,185,426,23,11,24,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam042_230812,Not available,Not available,Not available,-32.2518,19.135,184,1456,23,8,12,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam089_231031,Not near (100 m) any water,Intermediate (6-17 yrs),None,-32.252083,19.13474,184,688,23,10,31,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam047_230807,Not available,Not available,Not available,-33.1388,18.099452,183,1133,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam134_231128,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.138748,18.099447,183,1282,23,11,28,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam078_230705,Not available,Not available,Not available,-34.7529,19.7999,182,706,23,7,5,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam101_231016,In or near (25 m) wetland,Intermediate (6-17 yrs),Rare to Very Scattered,-34.753287,19.799897,182,563,23,10,16,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam060_230809,Not available,Not available,Not available,-33.6617,23.129875,181,706,23,8,9,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam149_231117,Not near (100 m) any water,Old (> 17 yrs),None,-33.661717,23.12987,181,569,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam054_230705,Not available,Not available,Not available,-34.7179,19.7554,180,712,23,7,5,Wet season,Y,N,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam063_231016,In or near (25 m) wetland,Intermediate (6-17 yrs),None,-34.71771,19.755347,180,566,23,10,16,Dry season,Y,N,Seep,Water,Low: 0-500 m,No data or No Fire
+s2lam026_230807,Not available,Not available,Not available,-34.708947,20.124182,179,572,23,8,7,Wet season,Y,Y,Estuary,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam058_231117,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-34.708955,20.124135,179,588,23,11,17,Dry season,Y,Y,Estuary,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam015_230907,Not available,Not available,Not available,-33.684294,19.098062,178,994,23,9,7,Wet season,Y,N,Seep,Forest-Woodland,High: >1000 m,1-to-6 years
+s2lam015_231018,In or near (25 m) wetland,"Young (burned, < 6 yrs)",None,-33.684306,19.098072,178,995,23,10,18,Dry season,Y,N,Seep,Forest-Woodland,High: >1000 m,1-to-6 years
+s2lam147_230818,Not available,Not available,Not available,-33.86424,22.0276,177,568,23,8,18,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam150_231017,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.864243,22.027604,177,844,23,10,17,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam118_231117,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.867383,23.172992,176,565,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam131_230809,Not available,Not available,Not available,-33.8674,23.173,176,713,23,8,9,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam069_231113,Not available,Intermediate (6-17 yrs),Scattered to Medium,-33.978463,20.816199,174,996,23,11,13,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,1-to-6 years
+s2lam148_230712,Not available,Not available,Not available,-33.9788,20.815975,174,715,23,7,12,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,1-to-6 years
+s2lam116_230822,Not available,Not available,Not available,-34.474737,20.486168,173,732,23,8,22,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam123_231022,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.47477,20.486193,173,576,23,10,22,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam015_230705,Not available,Not available,Not available,-34.005213,19.1891,172,590,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam167_231123,In or near (25 m) wetland,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.00518,19.189079,172,425,23,11,23,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam082_231010,Not available,Not available,Not available,-33.691023,21.907713,171,1010,23,10,10,Dry season,Y,N,NA,Shrubland,Medium: 500-1000 m,1-to-6 years
+s2lam162_230714,Not available,Not available,Not available,-33.6911,21.907667,171,988,23,7,14,Wet season,Y,N,NA,Shrubland,Medium: 500-1000 m,1-to-6 years
+s2lam095_231017,Not available,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.8905,22.023022,170,853,23,10,17,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam150_230721,Not available,Not available,Not available,-33.8905,22.023,170,712,23,7,21,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam050_230826,Not available,Not available,Not available,-32.9965,19.0597,169,732,23,8,26,Wet season,Y,Y,Seep,Wetland,Medium: 500-1000 m,1-to-6 years
+s2lam089_231025,In or near (10 m) seep,Intermediate (6-17 yrs),None,-32.996555,19.059401,169,707,23,10,25,Dry season,Y,Y,Seep,Shrubland-Fynbos,Medium: 500-1000 m,12-to-17 years
+s2lam125_231026,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.499825,20.707033,168,855,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam159_230802,Not available,Not available,Not available,-33.4999,20.707,168,717,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam052_231128,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-33.201803,18.140404,166,1204,23,11,28,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam134_230807,Not available,Not available,Not available,-33.2018,18.14039,166,1028,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam137_230713,Not available,Not available,Not available,-33.3322,22.03395,165,863,23,7,13,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam154_231013,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.3322,22.033915,165,981,23,10,13,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam058_231028,Not near (100 m) any water,Old (> 17 yrs),None,-34.753105,19.686715,164,1004,23,10,28,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam163_230820,Not available,Not available,Not available,-34.7531,19.6867,164,854,23,8,20,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam117_230802,Not available,Not available,Not available,-33.5072,20.6434,163,718,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam128_231026,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",None,-33.507188,20.643463,163,855,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam084_231117,In or near (25 m) wetland,Old (> 17 yrs),None,-34.704332,20.085802,162,544,23,11,17,Dry season,Y,Y,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam120_230807,Not available,Not available,Not available,-34.70433,20.0858,162,576,23,8,7,Wet season,Y,Y,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam021_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.709313,20.109485,161,545,23,11,17,Dry season,Y,Y,Estuary,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam163_230807,Not available,Not available,Not available,-34.7093,20.109675,161,659,23,8,7,Wet season,Y,Y,Estuary,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam088_231103,Not near (100 m) any water,Old (> 17 yrs),None,-33.902684,22.967,160,716,23,11,3,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam093_230725,Not available,Not available,Not available,-33.9027,22.9669,160,1010,23,7,25,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam044_230809,Not available,Not available,Not available,-33.6622,23.1338,159,707,23,8,9,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam117_231117,Not near (100 m) any water,Old (> 17 yrs),None,-33.662202,23.133907,159,570,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam029_231114,Not available,Not available,Not available,-33.754541,21.661566,157,861,23,11,14,Dry season,Y,N,River,Water,Low: 0-500 m,No data or No Fire
+s2lam122_230822,Not available,Not available,Not available,-33.75428,21.66194,157,988,23,8,22,Wet season,Y,N,River,Bare,Low: 0-500 m,No data or No Fire
+s2lam006_231115,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.100522,18.45091,155,596,23,11,15,Dry season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam110_230710,Not available,Not available,Not available,-34.100537,18.450947,155,574,23,7,10,Wet season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam105_231117,Within 50 m of a river or stream,Old (> 17 yrs),Scattered to Medium,-34.705798,20.09224,154,544,23,11,17,Dry season,Y,Y,Wetland Flat,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam140_230807,Not available,Not available,Not available,-34.7058,20.092262,154,576,23,8,7,Wet season,Y,Y,Wetland Flat,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam037_230826,Not available,Not available,Not available,-32.9824,19.05618,153,739,23,8,26,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,12-to-17 years
+s2lam092_231025,In or near (10 m) seep,Intermediate (6-17 yrs),None,-32.982373,19.056155,153,676,23,10,25,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,12-to-17 years
+s2lam135_230713,Not available,Not available,Not available,-33.365723,22.0984,152,893,23,7,13,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam143_231013,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.365715,22.098403,152,1020,23,10,13,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam045_231028,In or near (25 m) wetland,Intermediate (6-17 yrs),Rare to Very Scattered,-34.728184,19.680414,151,1014,23,10,28,Dry season,Y,N,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam161_230820,Not available,Not available,Not available,-34.7283,19.6803,151,858,23,8,20,Wet season,Y,N,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam126_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.708117,20.104608,150,542,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam139_230807,Not available,Not available,Not available,-34.7081,20.1049,150,574,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam088_230829,Not available,Not available,Not available,-33.955904,23.601737,149,1149,23,8,29,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam114_231130,Not near (100 m) any water,Old (> 17 yrs),None,-33.955858,23.60183,149,867,23,11,30,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam058_230705,Not available,Not available,Not available,-34.7325,19.7857,147,707,23,7,5,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam126_231016,In or near (25 m) wetland,Old (> 17 yrs),Rare to Very Scattered,-34.732445,19.785778,147,549,23,10,16,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam030_231025,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.021329,19.052,146,697,23,10,25,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam112_230826,Not available,Not available,Not available,-33.021316,19.052,146,709,23,8,26,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam003_230705,Not available,Not available,Not available,-34.001111,19.19038,145,586,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam169_231123,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.001182,19.190366,145,421,23,11,23,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam093_231020,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.984194,22.607503,144,718,23,10,20,Dry season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam114_230711,Not available,Not available,Not available,-33.9842,22.607488,144,571,23,7,11,Wet season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam088_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.068581,23.227073,142,722,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam114_230811,Not available,Not available,Not available,-34.0686,23.2269,142,712,23,8,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam073_231020,Not near (100 m) any water,Not available,None,-33.983857,20.828557,141,1025,23,10,20,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam161_230718,Not available,Not available,Not available,-33.984,20.8285,141,870,23,7,18,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam071_231103,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.086555,18.420931,140,553,23,11,3,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam110_230717,Not available,Not available,Not available,-34.0866,18.420963,140,1138,23,7,17,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam016_231020,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.988816,22.606345,138,722,23,10,20,Dry season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam093_230711,Not available,Not available,Not available,-33.9888,22.6063,138,560,23,7,11,Wet season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam131_231001,Not near (100 m) any water,Old (> 17 yrs),None,-33.579188,23.398155,137,1136,23,10,1,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam142_230707,Not available,Not available,Not available,-33.5792,23.3981,137,1138,23,7,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam052_231103,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.087061,18.419744,136,559,23,11,3,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam065_230717,Not available,Not available,Not available,-34.0871,18.419751,136,1161,23,7,17,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam112_230705,Not available,Not available,Not available,-32.136534,18.984788,135,1267,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam191_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-32.136598,18.984873,135,407,23,11,22,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam103_230714,Not available,Not available,Not available,-33.726,21.9382,134,1019,23,7,14,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam122_231010,Not available,Not available,Not available,-33.725984,21.9382,134,1009,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam076_231117,Not near (100 m) any water,Old (> 17 yrs),None,-33.661817,23.131625,133,569,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam151_230809,Not available,Not available,Not available,-33.6618,23.1316,133,707,23,8,9,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam023_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.707845,20.117433,132,595,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam146_230807,Not available,Not available,Not available,-34.7079,20.1174,132,572,23,8,7,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam020_230712,Not available,Not available,Not available,-33.9788,20.817082,131,715,23,7,12,Wet season,Y,N,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam109_231113,Not available,Intermediate (6-17 yrs),Scattered to Medium,-33.978771,20.817119,131,997,23,11,13,Dry season,Y,N,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam110_231010,Not near (100 m) any water,Old (> 17 yrs),None,-33.934748,19.896443,130,1008,23,10,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam140_230727,Not available,Not available,Not available,-33.934738,19.8964,130,992,23,7,27,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam058_230630,Not available,Not available,Not available,-34.6703,19.630175,129,567,23,6,30,Wet season,Y,N,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam129_231029,Not near (100 m) any water,Old (> 17 yrs),None,-34.670338,19.630208,129,983,23,10,29,Dry season,Y,N,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam003_230823,Not available,Not available,Not available,-34.353166,18.900439,128,607,23,8,23,Wet season,Y,N,NA,Grassland,Low: 0-500 m,1-to-6 years
+s2lam132_231108,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.353249,18.90035,128,1001,23,11,8,Dry season,Y,N,NA,Grassland,Low: 0-500 m,1-to-6 years
+s2lam038_230718,Not available,Not available,Not available,-34.069029,22.9379,127,568,23,7,18,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam114_231027,Not near (100 m) any water,Intermediate (6-17 yrs),Scattered to Medium,-34.068947,22.937883,127,722,23,10,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam060_230815,Not available,Not available,Not available,-33.342845,21.8897,126,1139,23,8,15,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam149_231005,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.342833,21.889732,126,850,23,10,5,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam021_231125,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",None,-34.731568,19.953805,125,593,23,11,25,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam163_230813,Not available,Not available,Not available,-34.731573,19.953775,125,621,23,8,13,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam130_231005,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.342135,21.847423,123,866,23,10,5,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam131_230815,Not available,Not available,Not available,-33.3421,21.847382,123,1141,23,8,15,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam023_231010,Not near (100 m) any water,Old (> 17 yrs),None,-34.806098,19.950075,122,694,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam157_230812,Not available,Not available,Not available,-34.8061,19.950062,122,710,23,8,12,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam041_230617,Not available,Not available,Not available,-33.990013,22.663065,121,862,23,6,17,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam041_231004,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.990023,22.663056,121,720,23,10,4,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam052_230820,Not available,Not available,Not available,-33.9965,18.392,120,1004,23,8,20,Wet season,Y,Y,Seep,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam077_231118,Within 50 m of a river or stream,Old (> 17 yrs),Rare to Very Scattered,-33.996409,18.392011,120,1000,23,11,18,Dry season,Y,Y,Seep,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam002_231011,In or near (10 m) seep,Not available,Rare to Very Scattered,-34.324586,18.445415,119,1007,23,10,11,Dry season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam017_230710,Not available,Not available,Not available,-34.3246,18.4454,119,570,23,7,10,Wet season,Y,Y,Seep,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam022_231019,Not available,Not available,Not available,-33.635191,21.674818,118,1008,23,10,19,Dry season,Y,N,NA,Shrubland,Low: 0-500 m,No data or No Fire
+s2lam032_230726,Not available,Not available,Not available,-33.635137,21.6748,118,1006,23,7,26,Wet season,Y,N,NA,Shrubland,Low: 0-500 m,No data or No Fire
+s2lam063_231117,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.698378,20.147845,116,574,23,11,17,Dry season,Y,Y,NA,Bare,Low: 0-500 m,1-to-6 years
+s2lam136_230807,Not available,Not available,Not available,-34.698418,20.1478,116,575,23,8,7,Wet season,Y,Y,NA,Bare,Low: 0-500 m,1-to-6 years
+s2lam038_231020,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.978564,22.60933,115,719,23,10,20,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam041_230711,Not available,Not available,Not available,-33.9784,22.6096,115,559,23,7,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam060_231025,Within 50 m of a river or stream,Not available,None,-33.475273,20.677402,114,852,23,10,25,Dry season,Y,Y,NA,Grassland,Medium: 500-1000 m,No data or No Fire
+s2lam067_230725,Not available,Not available,Not available,-33.4753,20.677385,114,1013,23,7,25,Wet season,Y,Y,NA,Grassland,Medium: 500-1000 m,No data or No Fire
+s2lam063_230807,Not available,Not available,Not available,-34.7065,20.127072,113,573,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam101_231117,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.706505,20.127083,113,588,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam060_231013,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.36309,22.09116,112,1016,23,10,13,Dry season,Y,Y,NA,Agriculture,High: >1000 m,6-to-12 years
+s2lam128_230713,Not available,Not available,Not available,-33.3631,22.0911,112,889,23,7,13,Wet season,Y,Y,NA,Agriculture,High: >1000 m,6-to-12 years
+s2lam116_230710,Not available,Not available,Not available,-34.0773,20.4546,111,1291,23,7,10,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam157_231009,Within 50 m of a river or stream,Old (> 17 yrs),Rare to Very Scattered,-34.07735,20.454643,111,1010,23,10,9,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam016_230804,Not available,Not available,Not available,-33.96064,23.164054,110,724,23,8,4,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam074_231110,Not near (100 m) any water,Old (> 17 yrs),None,-33.960643,23.164296,110,719,23,11,10,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam006_231103,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.077538,18.406369,109,551,23,11,3,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam089_230710,Not available,Not available,Not available,-34.077413,18.406322,109,573,23,7,10,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam078_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.714917,20.096583,107,544,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam157_230807,Not available,Not available,Not available,-34.7149,20.096578,107,576,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam121_231028,In or near (25 m) wetland,Old (> 17 yrs),None,-34.751323,19.691984,106,1002,23,10,28,Dry season,Y,N,Wetland Flat,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam141_230820,Not available,Not available,Not available,-34.751333,19.691984,106,853,23,8,20,Wet season,Y,N,Wetland Flat,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam029_231106,Not available,Not available,Not available,-33.682252,21.556757,105,1132,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam122_230808,Not available,Not available,Not available,-33.682146,21.5568,105,984,23,8,8,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam125_231014,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.615637,23.442153,103,1122,23,10,14,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam127_230717,Not available,Not available,Not available,-33.615623,23.4421,103,1434,23,7,17,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam017_230807,Not available,Not available,Not available,-33.1172,18.0859,102,1118,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam017_231128,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.117189,18.085847,102,1281,23,11,28,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam030_230805,Not available,Not available,Not available,-32.4313,19.141562,101,767,23,8,5,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam042_231106,Not near (100 m) any water,Intermediate (6-17 yrs),None,-32.431301,19.141576,101,695,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam016_231103,Not near (100 m) any water,Old (> 17 yrs),None,-33.913483,22.949432,100,716,23,11,3,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam040_230725,Not available,Not available,Not available,-33.913512,22.9494,100,1007,23,7,25,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam071_231127,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.197724,18.086577,99,1266,23,11,27,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam133_230808,Not available,Not available,Not available,-33.19781,18.086567,99,877,23,8,8,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam045_230808,Not available,Not available,Not available,-33.949347,21.057652,97,1298,23,8,8,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,6-to-12 years
+s2lam051_231030,Within 50 m of a river or stream,Intermediate (6-17 yrs),Scattered to Medium,-33.949391,21.05756,97,1434,23,10,30,Dry season,Y,N,Seep,Forest-Woodland,Low: 0-500 m,6-to-12 years
+s2lam147_231113,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.885992,22.423099,96,565,23,11,13,Dry season,Y,N,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam164_230815,Not available,Not available,Not available,-33.886017,22.4231,96,1002,23,8,15,Wet season,Y,N,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam067_231014,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.62317,23.450227,95,1122,23,10,14,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam142_230717,Not available,Not available,Not available,-33.623148,23.4502,95,1431,23,7,17,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam002_231115,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.111312,18.445331,94,586,23,11,15,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam065_230710,Not available,Not available,Not available,-34.111324,18.445368,94,580,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam111_231013,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.362803,22.06435,93,1007,23,10,13,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,12-to-17 years
+s2lam131_230713,Not available,Not available,Not available,-33.3628,22.064382,93,883,23,7,13,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,12-to-17 years
+s2lam076_231001,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-33.608082,23.429878,92,1007,23,10,1,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam154_230717,Not available,Not available,Not available,-33.6081,23.4298,92,326,23,7,17,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam074_231020,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.97891,22.604538,91,722,23,10,20,Dry season,Y,Y,River,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_230711,Not available,Not available,Not available,-33.9788,22.6045,91,577,23,7,11,Wet season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam087_231019,Not available,Not available,Not available,-33.720262,21.641724,90,1010,23,10,19,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam108_230726,Not available,Not available,Not available,-33.7203,21.6417,90,997,23,7,26,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam072_230812,Not available,Not available,Not available,-32.233747,19.120322,89,1426,23,8,12,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam083_231031,Not near (100 m) any water,Old (> 17 yrs),None,-32.23375,19.12033,89,690,23,10,31,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam063_230630,Not available,Not available,Not available,-34.6472,19.604177,88,567,23,6,30,Wet season,Y,Y,Channelled valley-bottom,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam126_231029,Within 50 m of a river or stream,Old (> 17 yrs),Rare to Very Scattered,-34.647204,19.604164,88,980,23,10,29,Dry season,Y,Y,Channelled valley-bottom,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam063_231125,In or near (25 m) wetland,Old (> 17 yrs),None,-34.746738,19.976938,86,570,23,11,25,Dry season,Y,N,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam126_230812,Not available,Not available,Not available,-34.7467,19.9769,86,713,23,8,12,Wet season,Y,N,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam080_231027,Within 50 m of a river or stream,Old (> 17 yrs),None,-34.000122,18.956897,85,999,23,10,27,Dry season,Y,N,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam099_230703,Not available,Not available,Not available,-34.0002,18.956959,85,993,23,7,3,Wet season,Y,N,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam049_230809,Not available,Not available,Not available,-33.6584,23.1341,84,710,23,8,9,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam137_231117,Not near (100 m) any water,Old (> 17 yrs),None,-33.658342,23.134028,84,570,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam058_231016,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.724473,19.765102,83,563,23,10,16,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam101_230705,Not available,Not available,Not available,-34.7244,19.7652,83,710,23,7,5,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam079_230811,Not available,Not available,Not available,-34.0576,23.2229,82,715,23,8,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam079_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.057588,23.222817,82,722,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam050_230705,Not available,Not available,Not available,-32.1483,18.9405,81,1304,23,7,5,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam176_231123,Not near (100 m) any water,Intermediate (6-17 yrs),Scattered to Medium,-32.148283,18.940516,81,429,23,11,23,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam038_231110,Not near (100 m) any water,Old (> 17 yrs),None,-33.943021,23.142143,80,716,23,11,10,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam093_230804,Not available,Not available,Not available,-33.9431,23.1421,80,726,23,8,4,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam027_231103,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.085742,18.420298,79,577,23,11,3,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam051_230717,Not available,Not available,Not available,-34.085749,18.420383,79,1143,23,7,17,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam078_231028,Not near (100 m) any water,Intermediate (6-17 yrs),None,-34.73331,19.678198,78,984,23,10,28,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam084_230820,Not available,Not available,Not available,-34.733332,19.6782,78,856,23,8,20,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam073_231010,Within 50 m of a river or stream,Old (> 17 yrs),Scattered to Medium,-33.911895,19.885568,77,1007,23,10,10,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam136_230727,Not available,Not available,Not available,-33.911772,19.885455,77,998,23,7,27,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam067_230713,Not available,Not available,Not available,-33.2704,22.0515,76,834,23,7,13,Wet season,Y,N,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam149_231013,Not near (100 m) any water,Not available,None,-33.270342,22.051455,76,958,23,10,13,Dry season,Y,N,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam149_230707,Not available,Not available,Not available,-33.5653,23.3765,75,325,23,7,7,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam159_231003,Not near (100 m) any water,Not available,None,-33.56526,23.376463,75,820,23,10,3,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam108_231019,Not available,Not available,Not available,-33.66368,21.640216,74,1010,23,10,19,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam115_230726,Not available,Not available,Not available,-33.6636,21.640372,74,1000,23,7,26,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam117_231005,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.345622,21.818577,73,873,23,10,5,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam119_230815,Not available,Not available,Not available,-33.3456,21.818577,73,1142,23,8,15,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam029_230726,Not available,Not available,Not available,-33.6823,21.648185,72,998,23,7,26,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam082_231019,Not available,Not available,Not available,-33.682301,21.648161,72,1010,23,10,19,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam026_230605,Not available,Not available,Not available,-33.6452,22.953783,71,1023,23,6,5,Wet season,Y,Y,NA,Forest-Woodland,High: >1000 m,1-to-6 years
+s2lam125_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.645426,22.953788,71,883,23,11,22,Dry season,Y,Y,NA,Forest-Woodland,High: >1000 m,1-to-6 years
+s2lam055_230907,Not available,Not available,Not available,-33.689714,19.093818,70,994,23,9,7,Wet season,Y,N,Seep,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam055_231018,In or near (10 m) seep,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.689759,19.093701,70,1000,23,10,18,Dry season,Y,N,Seep,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam076_230809,Not available,Not available,Not available,-33.914797,23.144992,69,696,23,8,9,Wet season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,No data or No Fire
+s2lam138_231117,Not near (100 m) any water,Old (> 17 yrs),None,-33.914805,23.14512,69,565,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,No data or No Fire
+s2lam138_230809,Not available,Not available,Not available,-33.678,23.1473,68,703,23,8,9,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam151_231117,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.678003,23.147408,68,571,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam084_230725,Not available,Not available,Not available,-34.373714,20.5177,67,747,23,7,25,Wet season,Y,Y,NA,Wetland,Low: 0-500 m,25+ years
+s2lam105_231110,In or near (25 m) wetland,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.373935,20.51794,67,727,23,11,10,Dry season,Y,Y,NA,Wetland,Low: 0-500 m,25+ years
+s2lam016_230703,Not available,Not available,Not available,-33.9739,23.3971,66,569,23,7,3,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam038_231011,Not near (100 m) any water,Old (> 17 yrs),None,-33.97393,23.39704,66,724,23,10,11,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam016_230829,Not available,Not available,Not available,-33.957382,23.569836,65,1149,23,8,29,Wet season,Y,Y,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam038_231130,Not near (100 m) any water,Old (> 17 yrs),Rare to Very Scattered,-33.957406,23.569838,65,868,23,11,30,Dry season,Y,Y,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam088_231011,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.987441,23.392195,64,727,23,10,11,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,6-to-12 years
+s2lam114_230703,Not available,Not available,Not available,-33.987439,23.3922,64,571,23,7,3,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,6-to-12 years
+s2lam016_231011,Not near (100 m) any water,Old (> 17 yrs),None,-34.001699,23.404389,63,722,23,10,11,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam104_230703,Not available,Not available,Not available,-34.0017,23.404362,63,571,23,7,3,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam074_230703,Not available,Not available,Not available,-33.9867,23.394456,62,569,23,7,3,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,25+ years
+s2lam114_231011,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.986691,23.394443,62,727,23,10,11,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,25+ years
+s2lam111_230707,Not available,Not available,Not available,-33.5887,23.423382,61,1124,23,7,7,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam138_230930,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-33.588717,23.423347,61,1144,23,9,30,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam074_230718,Not available,Not available,Not available,-34.082254,22.960855,59,574,23,7,18,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam088_231027,Not near (100 m) any water,Old (> 17 yrs),Scattered to Medium,-34.082229,22.960842,59,720,23,10,27,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam047_231107,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.355985,18.858381,58,1121,23,11,7,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam096_230823,Not available,Not available,Not available,-34.3561,18.8584,58,700,23,8,23,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam023_230727,Not available,Not available,Not available,-33.9172,19.884265,57,1000,23,7,27,Wet season,Y,Y,NA,Grassland,Low: 0-500 m,No data or No Fire
+s2lam051_231010,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.917263,19.884328,57,1009,23,10,10,Dry season,Y,Y,NA,Grassland,Low: 0-500 m,No data or No Fire
+s2lam077_231128,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.162866,18.127556,56,1281,23,11,28,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam096_230807,Not available,Not available,Not available,-33.1629,18.1276,56,1141,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam076_231025,Not near (100 m) any water,Not available,None,-33.443832,20.807768,55,587,23,10,25,Dry season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam125_230725,Not available,Not available,Not available,-33.44379,20.80778,55,894,23,7,25,Wet season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam135_230725,Not available,Not available,Not available,-33.4438,20.80778,55,983,23,7,25,Wet season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam052_231115,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.104815,18.445317,54,597,23,11,15,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam071_230717,Not available,Not available,Not available,-34.104813,18.445337,54,1153,23,7,17,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam026_230725,Not available,Not available,Not available,-34.4096,20.577581,53,730,23,7,25,Wet season,Y,Y,NA,Agriculture,Low: 0-500 m,6-to-12 years
+s2lam116_231110,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-34.409568,20.57758,53,723,23,11,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,6-to-12 years
+s2lam155_231013,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.358053,22.054115,52,1001,23,10,13,Dry season,Y,Y,NA,Grassland,High: >1000 m,6-to-12 years
+s2lam156_230713,Not available,Not available,Not available,-33.3581,22.0541,52,586,23,7,13,Wet season,Y,Y,NA,Grassland,High: >1000 m,6-to-12 years
+s2lam084_231110,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.400334,20.555894,49,724,23,11,10,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam105_230725,Not available,Not available,Not available,-34.400341,20.5559,49,738,23,7,25,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam026_231029,Within 50 m of a river or stream,Old (> 17 yrs),None,-34.676853,19.64181,48,997,23,10,29,Dry season,Y,N,Seep,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam081_230630,Not available,Not available,Not available,-34.6769,19.64177,48,553,23,6,30,Wet season,Y,N,Seep,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam074_231011,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.984909,23.388376,47,728,23,10,11,Dry season,Y,Y,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam093_230703,Not available,Not available,Not available,-33.9849,23.3884,47,569,23,7,3,Wet season,Y,Y,NA,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam052_230702,Not available,Not available,Not available,-34.10104,18.447066,46,583,23,7,2,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam184_231124,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-34.101002,18.447055,46,438,23,11,24,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam147_230721,Not available,Not available,Not available,-33.908915,22.0235,45,709,23,7,21,Wet season,Y,N,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam148_231114,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-33.908868,22.023463,45,583,23,11,14,Dry season,Y,N,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam125_230713,Not available,Not available,Not available,-33.354623,22.051863,44,875,23,7,13,Wet season,Y,Y,NA,Grassland,High: >1000 m,6-to-12 years
+s2lam144_231013,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.354563,22.051887,44,998,23,10,13,Dry season,Y,Y,NA,Grassland,High: >1000 m,6-to-12 years
+s2lam093_230811,Not available,Not available,Not available,-34.042139,23.192287,43,713,23,8,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.042136,23.192225,43,726,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam045_231022,Not near (100 m) any water,Old (> 17 yrs),None,-34.454242,20.431411,42,574,23,10,22,Dry season,Y,Y,Depression,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam121_230822,Not available,Not available,Not available,-34.454228,20.431365,42,728,23,8,22,Wet season,Y,Y,Depression,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam082_231106,Not available,Not available,Not available,-33.673542,21.548363,41,1130,23,11,6,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam087_230808,Not available,Not available,Not available,-33.6736,21.548387,41,977,23,8,8,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam015_231128,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.113294,18.074722,39,1281,23,11,28,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam073_230807,Not available,Not available,Not available,-33.113319,18.0747,39,1110,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam042_230705,Not available,Not available,Not available,-33.9195,19.1618,38,590,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam185_231123,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-33.919364,19.161827,38,432,23,11,23,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam127_231005,Within 50 m of a river or stream,"Young (burned, < 6 yrs)",None,-33.346575,21.973268,37,980,23,10,5,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,17-to-25 years
+s2lam128_230815,Not available,Not available,Not available,-33.3467,21.9732,37,1137,23,8,15,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,17-to-25 years
+s2lam027_230807,Not available,Not available,Not available,-33.1186,18.076755,36,1114,23,8,7,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam056_231128,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.118582,18.076745,36,1178,23,11,28,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam076_231013,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-33.361693,22.077203,35,1012,23,10,13,Dry season,Y,Y,NA,Forest-Woodland,High: >1000 m,6-to-12 years
+s2lam159_230713,Not available,Not available,Not available,-33.3617,22.0772,35,886,23,7,13,Wet season,Y,Y,NA,Forest-Woodland,High: >1000 m,6-to-12 years
+s2lam158_231203,In or near (25 m) wetland,Not available,Rare to Very Scattered,-33.584825,23.401063,34,1858,23,12,3,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam037_230705,Not available,Not available,Not available,-32.153315,19.0312,33,1271,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam182_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-32.153341,19.031245,33,423,23,11,22,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam098_231117,In or near (25 m) wetland,Old (> 17 yrs),None,-34.704917,20.09102,32,544,23,11,17,Dry season,Y,Y,Estuary,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam161_230807,Not available,Not available,Not available,-34.7049,20.091,32,576,23,8,7,Wet season,Y,Y,Estuary,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam125_231001,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-33.608497,23.432418,31,1007,23,10,1,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam143_230717,Not available,Not available,Not available,-33.6085,23.432383,31,1477,23,7,17,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam093_231125,Not near (100 m) any water,Old (> 17 yrs),None,-33.983027,23.54273,30,595,23,11,25,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam104_230818,Not available,Not available,Not available,-33.983,23.542755,30,885,23,8,18,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam001_230815,Not available,Not available,Not available,-33.34112,21.8571,29,1137,23,8,15,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam143_231005,Not near (100 m) any water,Old (> 17 yrs),None,-33.341178,21.857118,29,861,23,10,5,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam123_230812,Not available,Not available,Not available,-34.8032,19.9755,28,711,23,8,12,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam126_231010,Not near (100 m) any water,Old (> 17 yrs),None,-34.803108,19.97553,28,695,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam158_231005,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.341935,22.00474,27,808,23,10,5,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam159_230815,Not available,Not available,Not available,-33.342,22.0047,27,1180,23,8,15,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam117_230809,Not available,Not available,Not available,-33.758,23.1615,26,743,23,8,9,Wet season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam127_231117,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-33.757927,23.161587,26,566,23,11,17,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam041_231011,Within 50 m of a river or stream,Old (> 17 yrs),None,-33.986581,23.39879,25,723,23,10,11,Dry season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam088_230703,Not available,Not available,Not available,-33.986436,23.398877,25,571,23,7,3,Wet season,Y,Y,Estuary,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam006_230705,Not available,Not available,Not available,-33.9229,19.158357,24,589,23,7,5,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam187_231123,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.922845,19.158364,24,433,23,11,23,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam104_231004,Not near (100 m) any water,Old (> 17 yrs),None,-33.981121,22.714095,23,719,23,10,4,Dry season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_230617,Not available,Not available,Not available,-33.98111,22.7141,23,114,23,6,17,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam003_231115,Not near (100 m) any water,Intermediate (6-17 yrs),Rare to Very Scattered,-34.110983,18.435961,22,586,23,11,15,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam068_230710,Not available,Not available,Not available,-34.111009,18.43594,22,579,23,7,10,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam091_231113,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.883383,22.428863,21,566,23,11,13,Dry season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam152_230815,Not available,Not available,Not available,-33.8835,22.4287,21,1007,23,8,15,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam063_231011,In or near (25 m) wetland,Old (> 17 yrs),Dense to Closed,-34.609248,19.919375,19,554,23,10,11,Dry season,Y,Y,Wetland Flat,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam078_230630,Not available,Not available,Not available,-34.609246,19.9198,19,572,23,6,30,Wet season,Y,Y,Wetland Flat,Agriculture,Low: 0-500 m,No data or No Fire
+s2lam074_230829,Not available,Not available,Not available,-33.947313,23.616678,18,1145,23,8,29,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam107_231130,Not near (100 m) any water,Old (> 17 yrs),Rare to Very Scattered,-33.947282,23.616674,18,849,23,11,30,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam067_231025,Not near (100 m) any water,Old (> 17 yrs),None,-33.466047,20.577525,17,853,23,10,25,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam138_230725,Not available,Not available,Not available,-33.466049,20.5775,17,999,23,7,25,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,No data or No Fire
+s2lam074_230811,Not available,Not available,Not available,-34.0479,23.210883,16,714,23,8,11,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam114_231117,Not near (100 m) any water,Old (> 17 yrs),None,-34.047787,23.21088,16,725,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam006_230823,Not available,Not available,Not available,-34.3583,18.852769,15,693,23,8,23,Wet season,Y,N,Seep,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam056_231107,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.358271,18.852811,15,1121,23,11,7,Dry season,Y,N,Seep,Shrubland-Fynbos,Low: 0-500 m,25+ years
+s2lam110_230702,Not available,Not available,Not available,-34.09139,18.427188,14,585,23,7,2,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam181_231124,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-34.091369,18.427204,14,430,23,11,24,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam092_230812,Not available,Not available,Not available,-32.242124,19.129182,13,1456,23,8,12,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,17-to-25 years
+s2lam112_231031,Not near (100 m) any water,Intermediate (6-17 yrs),None,-32.24213,19.129219,13,688,23,10,31,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,17-to-25 years
+s2lam001_230725,Not available,Not available,Not available,-33.4944,20.704757,12,1007,23,7,25,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam135_231026,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.494363,20.704745,12,854,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam042_231031,Not near (100 m) any water,Intermediate (6-17 yrs),None,-32.222782,19.116443,11,690,23,10,31,Dry season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam046_230812,Not available,Not available,Not available,-32.222761,19.116407,11,1449,23,8,12,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam137_231011,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.343682,22.024062,10,1261,23,10,11,Dry season,Y,Y,NA,Agriculture,High: >1000 m,6-to-12 years
+s2lam151_230815,Not available,Not available,Not available,-33.3438,22.0241,10,1141,23,8,15,Wet season,Y,Y,NA,Agriculture,High: >1000 m,6-to-12 years
+s2lam130_231117,Within 50 m of a river or stream,Old (> 17 yrs),Scattered to Medium,-33.761295,23.140722,9,566,23,11,17,Dry season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,No data or No Fire
+s2lam135_230809,Not available,Not available,Not available,-33.761335,23.140777,9,736,23,8,9,Wet season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,No data or No Fire
+s2lam005_230725,Not available,Not available,Not available,-33.927,22.4515,8,1008,23,7,25,Wet season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam165_231109,Not available,Not available,Not available,-33.927008,22.451564,8,988,23,11,9,Dry season,Y,Y,NA,Forest-Woodland,Medium: 500-1000 m,1-to-6 years
+s2lam072_231106,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-32.350201,19.014995,7,687,23,11,6,Dry season,Y,N,NA,Bare,Medium: 500-1000 m,1-to-6 years
+s2lam092_230804,Not available,Not available,Not available,-32.350182,19.014998,7,878,23,8,4,Wet season,Y,N,NA,Bare,Medium: 500-1000 m,1-to-6 years
+s2lam040_230617,Not available,Not available,Not available,-33.9946,22.7214,6,568,23,6,17,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam114_231004,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.994603,22.721433,6,718,23,10,4,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam026_230812,Not available,Not available,Not available,-34.8101,19.9727,5,713,23,8,12,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam026_231010,Not near (100 m) any water,Old (> 17 yrs),None,-34.81014,19.972653,5,684,23,10,10,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam119_230725,Not available,Not available,Not available,-33.479639,20.5146,4,998,23,7,25,Wet season,Y,N,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam155_231025,Not near (100 m) any water,Old (> 17 yrs),None,-33.479613,20.514623,4,852,23,10,25,Dry season,Y,N,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam016_231027,Within 50 m of a river or stream,Intermediate (6-17 yrs),Rare to Very Scattered,-34.053731,22.936636,3,723,23,10,27,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam088_230718,Not available,Not available,Not available,-34.053744,22.9366,3,570,23,7,18,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam074_230711,Not available,Not available,Not available,-33.992995,22.618198,2,564,23,7,11,Wet season,Y,Y,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam079_231020,Not near (100 m) any water,Old (> 17 yrs),None,-33.993067,22.618195,2,722,23,10,20,Dry season,Y,Y,Estuary,Wetland,Low: 0-500 m,No data or No Fire
+s2lam022_230707,Not available,Not available,Not available,-33.67575,21.893658,1,732,23,7,7,Wet season,Y,N,NA,Grassland,Low: 0-500 m,25+ years
+s2lam162_231115,Not available,Not available,Not available,-33.675775,21.893667,1,863,23,11,15,Dry season,Y,N,NA,Grassland,Low: 0-500 m,25+ years
+s2lam001_231025,Not near (100 m) any water,Old (> 17 yrs),None,-33.44634,20.834557,-1,858,23,10,25,Dry season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam006_230808,Not available,Not available,Not available,-33.207846,18.0944,-1,858,23,8,8,Wet season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam017_230622,Not available,Not available,Not available,-33.9846,20.8226,-1,1584,23,6,22,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam020_231125,In or near (25 m) wetland,Old (> 17 yrs),None,-34.729838,19.91428,-1,570,23,11,25,Dry season,Y,N,Wetland Flat,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam023_230712,Not available,Not available,Not available,-33.9727,20.8247,-1,715,23,7,12,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam039_230613,Not available,Not available,Not available,-33.676039,22.6662,-1,1147,23,6,13,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam039_230622,Not available,Not available,Not available,-33.6265,22.516467,-1,992,23,6,22,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,25+ years
+s2lam039_230712,Not available,Not available,Not available,-33.6759,22.758075,-1,142,23,7,12,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,12-to-17 years
+s2lam039_231026,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.52087,20.510778,-1,857,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,12-to-17 years
+s2lam044_230613,Not available,Not available,Not available,-33.673,22.6558,-1,1148,23,6,13,Wet season,Y,N,NA,Forest-Woodland,Medium: 500-1000 m,6-to-12 years
+s2lam044_230622,Not available,Not available,Not available,-33.6288,22.5147,-1,991,23,6,22,Wet season,Y,N,NA,Grassland,Medium: 500-1000 m,25+ years
+s2lam044_231130,Within 50 m of a river or stream,Intermediate (6-17 yrs),None,-34.322702,18.971633,-1,609,23,11,30,Dry season,Y,Y,NA,Shrubland-Fynbos,Low: 0-500 m,12-to-17 years
+s2lam047_230703,Not available,Not available,Not available,-33.9961,18.9543,-1,1080,23,7,3,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam049_230613,Not available,Not available,Not available,-33.6687,22.654185,-1,1149,23,6,13,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam049_230622,Not available,Not available,Not available,-33.6268,22.5211,-1,999,23,6,22,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,17-to-25 years
+s2lam049_230712,Not available,Not available,Not available,-33.6718,22.7534,-1,854,23,7,12,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam049_231026,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.495978,20.717842,-1,854,23,10,26,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam056_230705,Not available,Not available,Not available,-33.952023,19.1755,-1,576,23,7,5,Wet season,Y,Y,NA,Wetland,Low: 0-500 m,1-to-6 years
+s2lam058_230811,Not available,Not available,Not available,-33.928537,21.068251,-1,854,23,8,11,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam059_230812,Not available,Not available,Not available,-32.206638,19.098668,-1,977,23,8,12,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam059_230826,Not available,Not available,Not available,-33.002,19.061659,-1,429,23,8,26,Wet season,Y,Y,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam065_230622,Not available,Not available,Not available,-33.9837,20.8215,-1,999,23,6,22,Wet season,Y,N,NA,Excluded,Medium: 500-1000 m,No data or No Fire
+s2lam076_230613,Not available,Not available,Not available,-33.6743,22.6608,-1,1148,23,6,13,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,6-to-12 years
+s2lam076_230622,Not available,Not available,Not available,-33.626019,22.5253,-1,1004,23,6,22,Wet season,Y,N,NA,Grassland,Medium: 500-1000 m,17-to-25 years
+s2lam076_230712,Not available,Not available,Not available,-33.6703,22.7541,-1,862,23,7,12,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam078_230811,Not available,Not available,Not available,-33.929112,21.0691,-1,1019,23,8,11,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam084_230813,Not available,Not available,Not available,-34.725877,19.951363,-1,619,23,8,13,Wet season,Y,N,Wetland Flat,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam087_230822,Not available,Not available,Not available,-33.7267,21.676281,-1,990,23,8,22,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,No data or No Fire
+s2lam095_230814,Not available,Not available,Not available,-33.8797,22.4385,-1,1146,23,8,14,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam098_230811,Not available,Not available,Not available,-33.932448,21.0717,-1,856,23,8,11,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam101_230811,Not available,Not available,Not available,-33.938137,21.0526,-1,845,23,8,11,Wet season,Y,N,NA,Shrubland-Fynbos,Medium: 500-1000 m,1-to-6 years
+s2lam108_230822,Not available,Not available,Not available,-33.647884,21.638218,-1,997,23,8,22,Wet season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,25+ years
+s2lam111_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",None,-33.626746,22.913083,-1,851,23,11,22,Dry season,Y,Y,NA,Bare,High: >1000 m,1-to-6 years
+s2lam115_231114,Not available,Not available,Not available,-33.647321,21.638003,-1,828,23,11,14,Dry season,Y,Y,NA,Forest-Woodland,Low: 0-500 m,25+ years
+s2lam117_231025,Not near (100 m) any water,Old (> 17 yrs),None,-33.469493,20.562843,-1,853,23,10,25,Dry season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam118_231013,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.318487,22.04279,-1,972,23,10,13,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,6-to-12 years
+s2lam122_230726,Not available,Not available,Not available,-33.638514,21.625269,-1,983,23,7,26,Wet season,Y,Y,NA,Grassland,Low: 0-500 m,25+ years
+s2lam122_231019,Not available,Not available,Not available,-33.638168,21.624879,-1,1011,23,10,19,Dry season,Y,Y,NA,Grassland,Low: 0-500 m,25+ years
+s2lam126_230710,Not available,Not available,Not available,-34.0713,20.439,-1,1299,23,7,10,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam127_231122,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.640252,22.948652,-1,879,23,11,22,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam129_230717,Not available,Not available,Not available,-33.9796,20.8229,-1,986,23,7,17,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,1-to-6 years
+s2lam130_231025,Not near (100 m) any water,Old (> 17 yrs),None,-33.451892,20.853398,-1,859,23,10,25,Dry season,Y,Y,NA,Shrubland-Karoo,Medium: 500-1000 m,No data or No Fire
+s2lam132_231027,Not near (100 m) any water,"Young (burned, < 6 yrs)",Rare to Very Scattered,-33.995833,18.953738,-1,999,23,10,27,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,1-to-6 years
+s2lam135_230930,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.585558,23.434753,-1,1143,23,9,30,Dry season,Y,Y,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam136_231125,In or near (25 m) wetland,Old (> 17 yrs),None,-34.757692,19.9275,-1,573,23,11,25,Dry season,Y,N,Wetland Flat,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam137_230802,Not available,Not available,Not available,-33.5064,20.681,-1,719,23,8,2,Wet season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,1-to-6 years
+s2lam139_230813,Not available,Not available,Not available,-34.7218,19.9451,-1,621,23,8,13,Wet season,Y,N,Estuary,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam157_230712,Not available,Not available,Not available,-33.979535,20.8069,-1,715,23,7,12,Wet season,Y,N,NA,Forest-Woodland,Low: 0-500 m,6-to-12 years
+s2lam160_231014,Not near (100 m) any water,Intermediate (6-17 yrs),None,-33.612898,23.438863,-1,1121,23,10,14,Dry season,Y,N,NA,Shrubland-Fynbos,High: >1000 m,No data or No Fire
+s2lam161_231009,In or near (25 m) wetland,Intermediate (6-17 yrs),None,-34.071307,20.4396,-1,1466,23,10,9,Dry season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,No data or No Fire
+s2lam163_230712,Not available,Not available,Not available,-33.9738,20.8362,-1,714,23,7,12,Wet season,Y,N,NA,Shrubland-Fynbos,Low: 0-500 m,25+ years

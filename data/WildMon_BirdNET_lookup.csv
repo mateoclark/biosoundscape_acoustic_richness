@@ -1,0 +1,73 @@
+Class,AMsciName,WMsciName,BNspecies,WMshort,BNshort,ComName,InWM20preds
+Frog,Arthroleptella lightfooti,arthroleptella_lightfooti,,artlig,,,1
+Frog,Arthroleptella subvoce,arthroleptella_subvoce,,artsub,,,1
+Frog,Arthroleptella villiersi,arthroleptella_villiersi,,artvil,,,1
+Frog,Breviceps acutirostris,breviceps_acutirostris,,breacu,,,1
+Frog,Breviceps fuscus,breviceps_fuscus,,brefus,,,1
+Frog,Breviceps montanus,breviceps_montanus,,bremon,,,1
+Frog,Cacosternum australis,cacosternum_australis,,cacaus,,,1
+Frog,Hyperolius horstockii,hyperolius_horstockii,,hyphor,,,1
+Frog,Hyperolius marmoratus,hyperolius_marmoratus,,hypmar,,,1
+Frog,Poyntonia paludicola,poyntonia_paludicola,,poypal,,,1
+Frog,Sclerophrys capensis,sclerophrys_capensis,,sclcap,,,1
+Frog,Semnodactylus wealii,semnodactylus_wealii,,semwea,,,1
+Frog,Strongylopus bonaespei,strongylopus_bonaespei,,strbon,,,1
+Frog,Tomopterna delalandii,tomopterna_delalandii,,tomdel,,,1
+Frog,Strongylopus grayii,strongylopus_grayii,,strgra,,,0
+Insect,Bullacris obliqua,bullacris_obliqua,,bulobl,,,1
+Insect,Bullacris unicolor,bullacris_unicolor,,buluni,,,1
+Insect,Bullacris discolor,bullacris_discolor,,buldis,,,1
+Insect,Physemacris variolosa,physemacris_variolosa,,phyvar,,,1
+Bird,Alopochen aegyptiaca,alopochen_aegyptiaca,Alopochenaegyptiaca_EgyptianGoose,aloaeg,egygoo,Egyptian Goose,1
+Bird,Andropadus importunus,andropadus_importunus,Andropadusimportunus_SombreGreenbul,andimp,somgre1,Sombre Greenbul,1
+Bird,Anthobaphes violacea,anthobaphes_violacea,Anthobaphesviolacea_Orange-breastedSunbird,antvio,orbsun2,Orange-breasted Sunbird,1
+Bird,Apalis thoracica,apalis_thoracica,Apalisthoracica_Bar-throatedApalis,apatho,batapa2,Bar-throated Apalis,1
+Bird,Apaloderma narina,apaloderma_narina,Apalodermanarina_NarinaTrogon,apanar,nartro1,Narina Trogon,1
+Bird,Batis capensis,batis_capensis,Batiscapensis_CapeBatis,batcap,capbat1,Cape Batis,1
+Bird,Bostrychia hagedash,bostrychia_hagedash,Bostrychiahagedash_HadadaIbis,boshag,hadibi1,Hadada Ibis,1
+Bird,Bradypterus sylvaticus,bradypterus_sylvaticus,Bradypterussylvaticus_KnysnaWarbler,brasyl,knswar1,Knysna Warbler,1
+Bird,Campethera notata,campethera_notata,Campetheranotata_KnysnaWoodpecker,camnot,knywoo1,Knysna Woodpecker,1
+Bird,Caprimulgus pectoralis,caprimulgus_pectoralis,Caprimulguspectoralis_Fiery-neckedNightjar,cappec,finnig1,Fiery-necked Nightjar,1
+Bird,Chaetops frenatus,chaetops_frenatus,Chaetopsfrenatus_CapeRockjumper,chafre,rufroc1,Cape Rockjumper,1
+Bird,Chrysococcyx cupreus,chrysococcyx_cupreus,Chrysococcyxcupreus_AfricanEmeraldCuckoo,chrcup,afecuc1,African Emerald Cuckoo,1
+Bird,Cinnyris chalybeus,cinnyris_chalybeus,Cinnyrischalybeus_SouthernDouble-collaredSunbird,cincha,sdcsun3,Southern Double-collared Sunbird,1
+Bird,Cisticola fulvicapilla,cisticola_fulvicapilla,Cisticolafulvicapilla_PipingCisticola,cisful,pipcis2,Piping Cisticola,1
+Bird,Cisticola subruficapilla,cisticola_subruficapilla,Cisticolasubruficapilla_Red-headedCisticola,cissub,rehcis2,Red-headed Cisticola,1
+Bird,Cisticola tinniens,cisticola_tinniens,Cisticolatinniens_Levaillant'sCisticola,cistin,tincis1,Levaillant's Cisticola,1
+Bird,Coracina caesia,coracina_caesia,Coracinacaesia_GrayCuckooshrike,corcae,grycus1,Gray Cuckooshrike,1
+Bird,Corvus capensis,corvus_capensis,Corvuscapensis_CapeCrow,corcap,capcro2,Cape Crow,1
+Bird,Cossypha caffra,cossypha_caffra,Cossyphacaffra_CapeRobin-Chat,coscaf,carcha1,Cape Robin-Chat,1
+Bird,Cryptillas victorini,cryptillas_victorini,Cryptillasvictorini_Victorin'sWarbler,cryvic,viswar1,Victorin's Warbler,1
+Bird,Cuculus clamosus,cuculus_clamosus,Cuculusclamosus_BlackCuckoo,cuccla,blacuc1,Black Cuckoo,1
+Bird,Cuculus solitarius,cuculus_solitarius,Cuculussolitarius_Red-chestedCuckoo,cucsol,reccuc1,Red-chested Cuckoo,1
+Bird,Cyanomitra veroxii,cyanomitra_veroxii,Cyanomitraveroxii_Mouse-coloredSunbird,cyaver,mocsun2,Mouse-colored Sunbird,`
+Bird,Dryoscopus cubla,dryoscopus_cubla,Dryoscopuscubla_Black-backedPuffback,drycub,blbpuf2,Black-backed Puffback,0
+Bird,Emberiza capensis,emberiza_capensis,Emberizacapensis_CapeBunting,embcap,capbun1,Cape Bunting,1
+Bird,Halcyon albiventris,halcyon_albiventris,Halcyonalbiventris_Brown-hoodedKingfisher,halalb,brhkin1,Brown-hooded Kingfisher,0
+Bird,Hedydipna collaris,hedydipna_collaris,Hedydipnacollaris_CollaredSunbird,hedcol,colsun2,Collared Sunbird,1
+Bird,Laniarius ferrugineus,laniarius_ferrugineus,Laniariusferrugineus_SouthernBoubou,lanfer,soubou1,Southern Boubou,1
+Bird,Macronyx capensis,macronyx_capensis,Macronyxcapensis_Orange-throatedLongclaw,maccap,ortlon1,Orange-throated Longclaw,0
+Bird,Mirafra apiata,mirafra_apiata,Mirafraapiata_CapeClapperLark,mirapi,caclar1,Cape Clapper Lark,1
+Bird,Motacilla capensis,motacilla_capensis,Motacillacapensis_CapeWagtail,motcap,capwag1,Cape Wagtail,1
+Bird,Muscicapa adusta,muscicapa_adusta,Muscicapaadusta_AfricanDuskyFlycatcher,musadu,afdfly1,African Dusky Flycatcher,1
+Bird,Nectarinia famosa,nectarinia_famosa,Nectariniafamosa_MalachiteSunbird,necfam,malsun1,Malachite Sunbird,1
+Bird,Oriolus larvatus,oriolus_larvatus,Orioluslarvatus_AfricanBlack-headedOriole,orilar,abhori1,African Black-headed Oriole,1
+Bird,Phylloscopus ruficapilla,phylloscopus_ruficapilla,Phylloscopusruficapilla_Yellow-throatedWoodland-Warbler,phyruf,yetwow1,Yellow-throated Woodland-Warbler,1
+Bird,Ploceus capensis,ploceus_capensis,Ploceuscapensis_CapeWeaver,plocap,capwea1,Cape Weaver,1
+Bird,Pogonocichla stellata,pogonocichla_stellata,Pogonocichlastellata_White-starredRobin,pogste,whsrob1,White-starred Robin,1
+Bird,Prinia maculosa,prinia_maculosa,Priniamaculosa_KarooPrinia,primac,karpri1,Karoo Prinia,1
+Bird,Promerops cafer,promerops_cafer,Promeropscafer_CapeSugarbird,procaf,capsug1,Cape Sugarbird,1
+Bird,Pternistis capensis,pternistis_capensis,Pternistiscapensis_CapeFrancolin,ptecap,capfra2,Cape Francolin,1
+Bird,Pycnonotus capensis,pycnonotus_capensis,Pycnonotuscapensis_CapeBulbul,pyccap,capbul1,Cape Bulbul,1
+Bird,Serinus canicollis,serinus_canicollis,Serinuscanicollis_CapeCanary,sercan,capcan1,Cape Canary,1
+Bird,Sphenoeacus afer,sphenoeacus_afer,Sphenoeacusafer_CapeGrassbird,sphafe,capgra1,Cape Grassbird,1
+Bird,Stenostira scita,stenostira_scita,Stenostirascita_FairyFlycatcher,stesci,faifly1,Fairy Flycatcher,1
+Bird,Streptopelia capicola,streptopelia_capicola,Streptopeliacapicola_Ring-neckedDove,strcap,rindov,Ring-necked Dove,1
+Bird,Tachybaptus ruficollis,tachybaptus_ruficollis,Tachybaptusruficollis_LittleGrebe,tacruf,litgre1,Little Grebe,1
+Bird,Tauraco corythaix,tauraco_corythaix,Tauracocorythaix_KnysnaTuraco,taucor,knytur1,Knysna Turaco,1
+Bird,Telophorus zeylonus,telophorus_zeylonus,Telophoruszeylonus_Bokmakierie,telzey,bokmak1,Bokmakierie,1
+Bird,Tricholaema leucomelas,tricholaema_leucomelas,Tricholaemaleucomelas_PiedBarbet,trileu,piebar1,Pied Barbet,1
+Bird,Turdus olivaceus,turdus_olivaceus,Turdusolivaceus_OliveThrush,turoli,olithr2,Olive Thrush,1
+Bird,Tyto alba,tyto_alba,Tytoalba_BarnOwl,tytalb,brnowl,Barn Owl,0
+Bird,Urocolius indicus,urocolius_indicus,Urocoliusindicus_Red-facedMousebird,uroind,refmou1,Red-faced Mousebird,1
+Bird,Zosterops virens,zosterops_virens,Zosteropsvirens_CapeWhite-eye,zosvir,capwhe2,Cape White-eye,1
