@@ -18,3 +18,9 @@ matthew.clark@sonoma.edu
 Center for Interdisciplinary Geospatial Analysis (CIGA)  
 Department of Applied Human and Environmental Sciences  
 Sonoma State University, California USA  
+
+**Funding:**  
+The BioSoundSCape project was funded by NASA awards 80NSSC22K0830 and 80NSSC23K1459. BioSCape was supported by NASA grant 80NSSC21K0086, the South African government (NRF/SAEON), and the United Nations Educational, Scientific and Cultural Organization (UNESCO).
+
+**Permit:**  
+This work was conducted under Permit numbers CRC/2024-2025/005--2023/V1 from South African National Parks and CN32-87-27034 from CapeNature.
