@@ -6,7 +6,7 @@ Code and data for the paper "Comparing machine-learned and engineered acoustic f
 *data* - small data files  
 *models* - CapeNet and ABGI AI models  
 
-Additional large data files for training models and used in analysis are available in the Zenodo repository: https://10.5281/zenodo.20476823
+Additional large data files for training models and used in analysis are available in the Zenodo repository: https://10.5281/zenodo.20476823](https://doi.org/10.5281/zenodo.20476822
 
 Raw sound recordings (4.3 TB) are available in the ONRL DAAC repository: https://doi.org/10.3334/ORNLDAAC/2372  
 If you use the recordings, please cite this data paper:  
