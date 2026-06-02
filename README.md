@@ -1,5 +1,6 @@
 # biosoundscape_acoustic_richness
-Code and data for the paper "Comparing machine-learned and engineered acoustic features for estimating animal species richness in the Cape Region of South Africa" (in review)
+Code and data for the paper:  
+Clark, M. L., Salas, L., Lee, A. T. K., Seymour, C., Turner, A., Couldridge, V., Schackwitz, W., Buainain, N., Bezerra, C. P. de A., Schneider, F. D., & Ferraz, A. (2026). Comparing machine-learned and engineered acoustic features for estimating animal species richness in the Cape Region of South Africa [Manuscript in review].
 
 **Folders:**    
 *scripts* - R scripts used for data pre-processing, analysis and graphing  
